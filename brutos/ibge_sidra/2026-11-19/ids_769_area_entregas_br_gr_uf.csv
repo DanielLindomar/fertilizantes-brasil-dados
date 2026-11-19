@@ -1,0 +1,529 @@
+nivel_cod,unidade,local_cod,local_nome,variavel_cod,ano_cod,valor
+1,Hectares,1,Brasil,2396,2007,63057881
+1,Hectares,1,Brasil,2396,2008,65338804
+1,Hectares,1,Brasil,2396,2009,65631919
+1,Hectares,1,Brasil,2396,2010,65371447
+1,Hectares,1,Brasil,2396,2011,68169563
+1,Hectares,1,Brasil,2396,2012,69196167
+1,Hectares,1,Brasil,2396,2013,72434134
+1,Hectares,1,Brasil,2396,2014,76246118
+1,Toneladas,1,Brasil,2397,2007,10584874
+1,Toneladas,1,Brasil,2397,2008,9386790
+1,Toneladas,1,Brasil,2397,2009,9060478
+1,Toneladas,1,Brasil,2397,2010,10133557
+1,Toneladas,1,Brasil,2397,2011,11656339
+1,Toneladas,1,Brasil,2397,2012,12603783
+1,Toneladas,1,Brasil,2397,2013,13433204
+1,Toneladas,1,Brasil,2397,2014,14018650
+2,Hectares,1,Norte,2396,2007,2608083
+2,Hectares,1,Norte,2396,2008,2793420
+2,Hectares,1,Norte,2396,2009,2699320
+2,Hectares,1,Norte,2396,2010,2739421
+2,Hectares,1,Norte,2396,2011,2906850
+2,Hectares,1,Norte,2396,2012,2873064
+2,Hectares,1,Norte,2396,2013,2972418
+2,Hectares,1,Norte,2396,2014,3231178
+2,Toneladas,1,Norte,2397,2007,180131
+2,Toneladas,1,Norte,2397,2008,160099
+2,Toneladas,1,Norte,2397,2009,148956
+2,Toneladas,1,Norte,2397,2010,178756
+2,Toneladas,1,Norte,2397,2011,246958
+2,Toneladas,1,Norte,2397,2012,338044
+2,Toneladas,1,Norte,2397,2013,415697
+2,Toneladas,1,Norte,2397,2014,487311
+2,Hectares,2,Nordeste,2396,2007,13083620
+2,Hectares,2,Nordeste,2396,2008,13281366
+2,Hectares,2,Nordeste,2396,2009,13174393
+2,Hectares,2,Nordeste,2396,2010,12453200
+2,Hectares,2,Nordeste,2396,2011,13319800
+2,Hectares,2,Nordeste,2396,2012,11985081
+2,Hectares,2,Nordeste,2396,2013,11442041
+2,Hectares,2,Nordeste,2396,2014,12532207
+2,Toneladas,2,Nordeste,2397,2007,1032546
+2,Toneladas,2,Nordeste,2397,2008,993102
+2,Toneladas,2,Nordeste,2397,2009,972900
+2,Toneladas,2,Nordeste,2397,2010,1123762
+2,Toneladas,2,Nordeste,2397,2011,1238725
+2,Toneladas,2,Nordeste,2397,2012,1371125
+2,Toneladas,2,Nordeste,2397,2013,1321049
+2,Toneladas,2,Nordeste,2397,2014,1436438
+2,Hectares,3,Sudeste,2396,2007,13203140
+2,Hectares,3,Sudeste,2396,2008,13273224
+2,Hectares,3,Sudeste,2396,2009,13280097
+2,Hectares,3,Sudeste,2396,2010,13546636
+2,Hectares,3,Sudeste,2396,2011,13773450
+2,Hectares,3,Sudeste,2396,2012,13912753
+2,Hectares,3,Sudeste,2396,2013,14287231
+2,Hectares,3,Sudeste,2396,2014,14628739
+2,Toneladas,3,Sudeste,2397,2007,3270559
+2,Toneladas,3,Sudeste,2397,2008,2646006
+2,Toneladas,3,Sudeste,2397,2009,2574083
+2,Toneladas,3,Sudeste,2397,2010,2819052
+2,Toneladas,3,Sudeste,2397,2011,3329887
+2,Toneladas,3,Sudeste,2397,2012,3367189
+2,Toneladas,3,Sudeste,2397,2013,3366179
+2,Toneladas,3,Sudeste,2397,2014,3405565
+2,Hectares,4,Sul,2396,2007,18921695
+2,Hectares,4,Sul,2396,2008,19662177
+2,Hectares,4,Sul,2396,2009,19875924
+2,Hectares,4,Sul,2396,2010,19317750
+2,Hectares,4,Sul,2396,2011,19671868
+2,Hectares,4,Sul,2396,2012,19870018
+2,Hectares,4,Sul,2396,2013,20857716
+2,Hectares,4,Sul,2396,2014,21386008
+2,Toneladas,4,Sul,2397,2007,2974872
+2,Toneladas,4,Sul,2397,2008,2752161
+2,Toneladas,4,Sul,2397,2009,2829626
+2,Toneladas,4,Sul,2397,2010,2876406
+2,Toneladas,4,Sul,2397,2011,3203079
+2,Toneladas,4,Sul,2397,2012,3359907
+2,Toneladas,4,Sul,2397,2013,3845444
+2,Toneladas,4,Sul,2397,2014,3995081
+2,Hectares,5,Centro-Oeste,2396,2007,15241343
+2,Hectares,5,Centro-Oeste,2396,2008,16328617
+2,Hectares,5,Centro-Oeste,2396,2009,16602185
+2,Hectares,5,Centro-Oeste,2396,2010,17314440
+2,Hectares,5,Centro-Oeste,2396,2011,18497595
+2,Hectares,5,Centro-Oeste,2396,2012,20555251
+2,Hectares,5,Centro-Oeste,2396,2013,22874728
+2,Hectares,5,Centro-Oeste,2396,2014,24467986
+2,Toneladas,5,Centro-Oeste,2397,2007,3126766
+2,Toneladas,5,Centro-Oeste,2397,2008,2835422
+2,Toneladas,5,Centro-Oeste,2397,2009,2534913
+2,Toneladas,5,Centro-Oeste,2397,2010,3135581
+2,Toneladas,5,Centro-Oeste,2397,2011,3637690
+2,Toneladas,5,Centro-Oeste,2397,2012,4167518
+2,Toneladas,5,Centro-Oeste,2397,2013,4484835
+2,Toneladas,5,Centro-Oeste,2397,2014,4694255
+3,Hectares,11,Rondônia,2396,2007,581086
+3,Hectares,11,Rondônia,2396,2008,622051
+3,Hectares,11,Rondônia,2396,2009,630866
+3,Hectares,11,Rondônia,2396,2010,652066
+3,Hectares,11,Rondônia,2396,2011,738579
+3,Hectares,11,Rondônia,2396,2012,642024
+3,Hectares,11,Rondônia,2396,2013,586068
+3,Hectares,11,Rondônia,2396,2014,577738
+3,Toneladas,11,Rondônia,2397,2007,18805
+3,Toneladas,11,Rondônia,2397,2008,20515
+3,Toneladas,11,Rondônia,2397,2009,24587
+3,Toneladas,11,Rondônia,2397,2010,28563
+3,Toneladas,11,Rondônia,2397,2011,37333
+3,Toneladas,11,Rondônia,2397,2012,50292
+3,Toneladas,11,Rondônia,2397,2013,53895
+3,Toneladas,11,Rondônia,2397,2014,60977
+3,Hectares,12,Acre,2396,2007,118861
+3,Hectares,12,Acre,2396,2008,113055
+3,Hectares,12,Acre,2396,2009,94431
+3,Hectares,12,Acre,2396,2010,128842
+3,Hectares,12,Acre,2396,2011,132201
+3,Hectares,12,Acre,2396,2012,146924
+3,Hectares,12,Acre,2396,2013,130776
+3,Hectares,12,Acre,2396,2014,123511
+3,Toneladas,12,Acre,2397,2007,2040
+3,Toneladas,12,Acre,2397,2008,1438
+3,Toneladas,12,Acre,2397,2009,500
+3,Toneladas,12,Acre,2397,2010,629
+3,Toneladas,12,Acre,2397,2011,1693
+3,Toneladas,12,Acre,2397,2012,926
+3,Toneladas,12,Acre,2397,2013,904
+3,Toneladas,12,Acre,2397,2014,853
+3,Hectares,13,Amazonas,2396,2007,163857
+3,Hectares,13,Amazonas,2396,2008,181694
+3,Hectares,13,Amazonas,2396,2009,184691
+3,Hectares,13,Amazonas,2396,2010,171943
+3,Hectares,13,Amazonas,2396,2011,197167
+3,Hectares,13,Amazonas,2396,2012,188131
+3,Hectares,13,Amazonas,2396,2013,176155
+3,Hectares,13,Amazonas,2396,2014,137654
+3,Toneladas,13,Amazonas,2397,2007,2336
+3,Toneladas,13,Amazonas,2397,2008,2323
+3,Toneladas,13,Amazonas,2397,2009,2027
+3,Toneladas,13,Amazonas,2397,2010,2492
+3,Toneladas,13,Amazonas,2397,2011,2482
+3,Toneladas,13,Amazonas,2397,2012,2677
+3,Toneladas,13,Amazonas,2397,2013,3178
+3,Toneladas,13,Amazonas,2397,2014,3602
+3,Hectares,14,Roraima,2396,2007,39530
+3,Hectares,14,Roraima,2396,2008,53643
+3,Hectares,14,Roraima,2396,2009,42343
+3,Hectares,14,Roraima,2396,2010,42193
+3,Hectares,14,Roraima,2396,2011,49664
+3,Hectares,14,Roraima,2396,2012,52154
+3,Hectares,14,Roraima,2396,2013,62428
+3,Hectares,14,Roraima,2396,2014,60450
+3,Toneladas,14,Roraima,2397,2007,6808
+3,Toneladas,14,Roraima,2397,2008,8138
+3,Toneladas,14,Roraima,2397,2009,6603
+3,Toneladas,14,Roraima,2397,2010,6322
+3,Toneladas,14,Roraima,2397,2011,7631
+3,Toneladas,14,Roraima,2397,2012,8990
+3,Toneladas,14,Roraima,2397,2013,9719
+3,Toneladas,14,Roraima,2397,2014,11227
+3,Hectares,15,Pará,2396,2007,1140192
+3,Hectares,15,Pará,2396,2008,1148344
+3,Hectares,15,Pará,2396,2009,1103914
+3,Hectares,15,Pará,2396,2010,1049016
+3,Hectares,15,Pará,2396,2011,1051399
+3,Hectares,15,Pará,2396,2012,1081692
+3,Hectares,15,Pará,2396,2013,1149309
+3,Hectares,15,Pará,2396,2014,1251235
+3,Toneladas,15,Pará,2397,2007,55923
+3,Toneladas,15,Pará,2397,2008,58798
+3,Toneladas,15,Pará,2397,2009,56114
+3,Toneladas,15,Pará,2397,2010,60888
+3,Toneladas,15,Pará,2397,2011,83705
+3,Toneladas,15,Pará,2397,2012,105370
+3,Toneladas,15,Pará,2397,2013,148423
+3,Toneladas,15,Pará,2397,2014,173337
+3,Hectares,16,Amapá,2396,2007,16970
+3,Hectares,16,Amapá,2396,2008,21079
+3,Hectares,16,Amapá,2396,2009,23520
+3,Hectares,16,Amapá,2396,2010,25387
+3,Hectares,16,Amapá,2396,2011,25564
+3,Hectares,16,Amapá,2396,2012,24688
+3,Hectares,16,Amapá,2396,2013,28120
+3,Hectares,16,Amapá,2396,2014,43172
+3,Toneladas,16,Amapá,2397,2007,2439
+3,Toneladas,16,Amapá,2397,2008,2898
+3,Toneladas,16,Amapá,2397,2009,1969
+3,Toneladas,16,Amapá,2397,2010,3439
+3,Toneladas,16,Amapá,2397,2011,3675
+3,Toneladas,16,Amapá,2397,2012,6718
+3,Toneladas,16,Amapá,2397,2013,5839
+3,Toneladas,16,Amapá,2397,2014,5421
+3,Hectares,17,Tocantins,2396,2007,547587
+3,Hectares,17,Tocantins,2396,2008,653554
+3,Hectares,17,Tocantins,2396,2009,619555
+3,Hectares,17,Tocantins,2396,2010,669974
+3,Hectares,17,Tocantins,2396,2011,712276
+3,Hectares,17,Tocantins,2396,2012,737451
+3,Hectares,17,Tocantins,2396,2013,839562
+3,Hectares,17,Tocantins,2396,2014,1037418
+3,Toneladas,17,Tocantins,2397,2007,91780
+3,Toneladas,17,Tocantins,2397,2008,65989
+3,Toneladas,17,Tocantins,2397,2009,57156
+3,Toneladas,17,Tocantins,2397,2010,76423
+3,Toneladas,17,Tocantins,2397,2011,110439
+3,Toneladas,17,Tocantins,2397,2012,163071
+3,Toneladas,17,Tocantins,2397,2013,193739
+3,Toneladas,17,Tocantins,2397,2014,231894
+3,Hectares,21,Maranhão,2396,2007,1837535
+3,Hectares,21,Maranhão,2396,2008,1667117
+3,Hectares,21,Maranhão,2396,2009,1624638
+3,Hectares,21,Maranhão,2396,2010,1765850
+3,Hectares,21,Maranhão,2396,2011,1788427
+3,Hectares,21,Maranhão,2396,2012,1830191
+3,Hectares,21,Maranhão,2396,2013,1878533
+3,Hectares,21,Maranhão,2396,2014,2006346
+3,Toneladas,21,Maranhão,2397,2007,135992
+3,Toneladas,21,Maranhão,2397,2008,120851
+3,Toneladas,21,Maranhão,2397,2009,139119
+3,Toneladas,21,Maranhão,2397,2010,148407
+3,Toneladas,21,Maranhão,2397,2011,189725
+3,Toneladas,21,Maranhão,2397,2012,217266
+3,Toneladas,21,Maranhão,2397,2013,230450
+3,Toneladas,21,Maranhão,2397,2014,252510
+3,Hectares,22,Piauí,2396,2007,1192079
+3,Hectares,22,Piauí,2396,2008,1200622
+3,Hectares,22,Piauí,2396,2009,1280968
+3,Hectares,22,Piauí,2396,2010,1262864
+3,Hectares,22,Piauí,2396,2011,1388514
+3,Hectares,22,Piauí,2396,2012,1417580
+3,Hectares,22,Piauí,2396,2013,1505270
+3,Hectares,22,Piauí,2396,2014,1540770
+3,Toneladas,22,Piauí,2397,2007,58864
+3,Toneladas,22,Piauí,2397,2008,70974
+3,Toneladas,22,Piauí,2397,2009,72938
+3,Toneladas,22,Piauí,2397,2010,94090
+3,Toneladas,22,Piauí,2397,2011,128987
+3,Toneladas,22,Piauí,2397,2012,171351
+3,Toneladas,22,Piauí,2397,2013,169775
+3,Toneladas,22,Piauí,2397,2014,158728
+3,Hectares,23,Ceará,2396,2007,2021372
+3,Hectares,23,Ceará,2396,2008,2013268
+3,Hectares,23,Ceará,2396,2009,2076295
+3,Hectares,23,Ceará,2396,2010,1769179
+3,Hectares,23,Ceará,2396,2011,2084945
+3,Hectares,23,Ceará,2396,2012,1732234
+3,Hectares,23,Ceará,2396,2013,1364914
+3,Hectares,23,Ceará,2396,2014,1505816
+3,Toneladas,23,Ceará,2397,2007,15996
+3,Toneladas,23,Ceará,2397,2008,13393
+3,Toneladas,23,Ceará,2397,2009,14282
+3,Toneladas,23,Ceará,2397,2010,12272
+3,Toneladas,23,Ceará,2397,2011,12761
+3,Toneladas,23,Ceará,2397,2012,13743
+3,Toneladas,23,Ceará,2397,2013,11551
+3,Toneladas,23,Ceará,2397,2014,13720
+3,Hectares,24,Rio Grande do Norte,2396,2007,467780
+3,Hectares,24,Rio Grande do Norte,2396,2008,484982
+3,Hectares,24,Rio Grande do Norte,2396,2009,497939
+3,Hectares,24,Rio Grande do Norte,2396,2010,346147
+3,Hectares,24,Rio Grande do Norte,2396,2011,425556
+3,Hectares,24,Rio Grande do Norte,2396,2012,337166
+3,Hectares,24,Rio Grande do Norte,2396,2013,327161
+3,Hectares,24,Rio Grande do Norte,2396,2014,343238
+3,Toneladas,24,Rio Grande do Norte,2397,2007,27729
+3,Toneladas,24,Rio Grande do Norte,2397,2008,20269
+3,Toneladas,24,Rio Grande do Norte,2397,2009,16584
+3,Toneladas,24,Rio Grande do Norte,2397,2010,19325
+3,Toneladas,24,Rio Grande do Norte,2397,2011,17556
+3,Toneladas,24,Rio Grande do Norte,2397,2012,16662
+3,Toneladas,24,Rio Grande do Norte,2397,2013,14089
+3,Toneladas,24,Rio Grande do Norte,2397,2014,16443
+3,Hectares,25,Paraíba,2396,2007,595294
+3,Hectares,25,Paraíba,2396,2008,661212
+3,Hectares,25,Paraíba,2396,2009,653363
+3,Hectares,25,Paraíba,2396,2010,443010
+3,Hectares,25,Paraíba,2396,2011,566622
+3,Hectares,25,Paraíba,2396,2012,361361
+3,Hectares,25,Paraíba,2396,2013,310872
+3,Hectares,25,Paraíba,2396,2014,370131
+3,Toneladas,25,Paraíba,2397,2007,19077
+3,Toneladas,25,Paraíba,2397,2008,15414
+3,Toneladas,25,Paraíba,2397,2009,16884
+3,Toneladas,25,Paraíba,2397,2010,21678
+3,Toneladas,25,Paraíba,2397,2011,21454
+3,Toneladas,25,Paraíba,2397,2012,22327
+3,Toneladas,25,Paraíba,2397,2013,20862
+3,Toneladas,25,Paraíba,2397,2014,25802
+3,Hectares,26,Pernambuco,2396,2007,1205121
+3,Hectares,26,Pernambuco,2396,2008,1309192
+3,Hectares,26,Pernambuco,2396,2009,1196777
+3,Hectares,26,Pernambuco,2396,2010,1103551
+3,Hectares,26,Pernambuco,2396,2011,1150366
+3,Hectares,26,Pernambuco,2396,2012,1002129
+3,Hectares,26,Pernambuco,2396,2013,575475
+3,Hectares,26,Pernambuco,2396,2014,881201
+3,Toneladas,26,Pernambuco,2397,2007,83221
+3,Toneladas,26,Pernambuco,2397,2008,68874
+3,Toneladas,26,Pernambuco,2397,2009,70176
+3,Toneladas,26,Pernambuco,2397,2010,91692
+3,Toneladas,26,Pernambuco,2397,2011,70905
+3,Toneladas,26,Pernambuco,2397,2012,77108
+3,Toneladas,26,Pernambuco,2397,2013,73852
+3,Toneladas,26,Pernambuco,2397,2014,73982
+3,Hectares,27,Alagoas,2396,2007,668049
+3,Hectares,27,Alagoas,2396,2008,675646
+3,Hectares,27,Alagoas,2396,2009,650778
+3,Hectares,27,Alagoas,2396,2010,612287
+3,Hectares,27,Alagoas,2396,2011,599116
+3,Hectares,27,Alagoas,2396,2012,527082
+3,Hectares,27,Alagoas,2396,2013,578948
+3,Hectares,27,Alagoas,2396,2014,597962
+3,Toneladas,27,Alagoas,2397,2007,101211
+3,Toneladas,27,Alagoas,2397,2008,66403
+3,Toneladas,27,Alagoas,2397,2009,72929
+3,Toneladas,27,Alagoas,2397,2010,96166
+3,Toneladas,27,Alagoas,2397,2011,78325
+3,Toneladas,27,Alagoas,2397,2012,82970
+3,Toneladas,27,Alagoas,2397,2013,60369
+3,Toneladas,27,Alagoas,2397,2014,62277
+3,Hectares,28,Sergipe,2396,2007,441499
+3,Hectares,28,Sergipe,2396,2008,409269
+3,Hectares,28,Sergipe,2396,2009,418407
+3,Hectares,28,Sergipe,2396,2010,458332
+3,Hectares,28,Sergipe,2396,2011,412022
+3,Hectares,28,Sergipe,2396,2012,379994
+3,Hectares,28,Sergipe,2396,2013,385751
+3,Hectares,28,Sergipe,2396,2014,384523
+3,Toneladas,28,Sergipe,2397,2007,20254
+3,Toneladas,28,Sergipe,2397,2008,24456
+3,Toneladas,28,Sergipe,2397,2009,32237
+3,Toneladas,28,Sergipe,2397,2010,32892
+3,Toneladas,28,Sergipe,2397,2011,35167
+3,Toneladas,28,Sergipe,2397,2012,32874
+3,Toneladas,28,Sergipe,2397,2013,32644
+3,Toneladas,28,Sergipe,2397,2014,41225
+3,Hectares,29,Bahia,2396,2007,4654891
+3,Hectares,29,Bahia,2396,2008,4860058
+3,Hectares,29,Bahia,2396,2009,4775228
+3,Hectares,29,Bahia,2396,2010,4691980
+3,Hectares,29,Bahia,2396,2011,4904232
+3,Hectares,29,Bahia,2396,2012,4397344
+3,Hectares,29,Bahia,2396,2013,4515117
+3,Hectares,29,Bahia,2396,2014,4902220
+3,Toneladas,29,Bahia,2397,2007,570202
+3,Toneladas,29,Bahia,2397,2008,592468
+3,Toneladas,29,Bahia,2397,2009,537751
+3,Toneladas,29,Bahia,2397,2010,607240
+3,Toneladas,29,Bahia,2397,2011,683845
+3,Toneladas,29,Bahia,2397,2012,736824
+3,Toneladas,29,Bahia,2397,2013,707457
+3,Toneladas,29,Bahia,2397,2014,791751
+3,Hectares,31,Minas Gerais,2396,2007,4871766
+3,Hectares,31,Minas Gerais,2396,2008,4740522
+3,Hectares,31,Minas Gerais,2396,2009,4789178
+3,Hectares,31,Minas Gerais,2396,2010,4844245
+3,Hectares,31,Minas Gerais,2396,2011,4951412
+3,Hectares,31,Minas Gerais,2396,2012,5099200
+3,Hectares,31,Minas Gerais,2396,2013,5293965
+3,Hectares,31,Minas Gerais,2396,2014,5466054
+3,Toneladas,31,Minas Gerais,2397,2007,1368661
+3,Toneladas,31,Minas Gerais,2397,2008,1147182
+3,Toneladas,31,Minas Gerais,2397,2009,1195947
+3,Toneladas,31,Minas Gerais,2397,2010,1282468
+3,Toneladas,31,Minas Gerais,2397,2011,1523613
+3,Toneladas,31,Minas Gerais,2397,2012,1590826
+3,Toneladas,31,Minas Gerais,2397,2013,1507972
+3,Toneladas,31,Minas Gerais,2397,2014,1628373
+3,Hectares,32,Espírito Santo,2396,2007,797707
+3,Hectares,32,Espírito Santo,2396,2008,733297
+3,Hectares,32,Espírito Santo,2396,2009,726017
+3,Hectares,32,Espírito Santo,2396,2010,692698
+3,Hectares,32,Espírito Santo,2396,2011,694209
+3,Hectares,32,Espírito Santo,2396,2012,687664
+3,Hectares,32,Espírito Santo,2396,2013,675834
+3,Hectares,32,Espírito Santo,2396,2014,658030
+3,Toneladas,32,Espírito Santo,2397,2007,125698
+3,Toneladas,32,Espírito Santo,2397,2008,106173
+3,Toneladas,32,Espírito Santo,2397,2009,109603
+3,Toneladas,32,Espírito Santo,2397,2010,129592
+3,Toneladas,32,Espírito Santo,2397,2011,159893
+3,Toneladas,32,Espírito Santo,2397,2012,168493
+3,Toneladas,32,Espírito Santo,2397,2013,163736
+3,Toneladas,32,Espírito Santo,2397,2014,178511
+3,Hectares,33,Rio de Janeiro,2396,2007,213150
+3,Hectares,33,Rio de Janeiro,2396,2008,222319
+3,Hectares,33,Rio de Janeiro,2396,2009,219074
+3,Hectares,33,Rio de Janeiro,2396,2010,218458
+3,Hectares,33,Rio de Janeiro,2396,2011,192515
+3,Hectares,33,Rio de Janeiro,2396,2012,208847
+3,Hectares,33,Rio de Janeiro,2396,2013,188580
+3,Hectares,33,Rio de Janeiro,2396,2014,170898
+3,Toneladas,33,Rio de Janeiro,2397,2007,25094
+3,Toneladas,33,Rio de Janeiro,2397,2008,15881
+3,Toneladas,33,Rio de Janeiro,2397,2009,15409
+3,Toneladas,33,Rio de Janeiro,2397,2010,17263
+3,Toneladas,33,Rio de Janeiro,2397,2011,16912
+3,Toneladas,33,Rio de Janeiro,2397,2012,18133
+3,Toneladas,33,Rio de Janeiro,2397,2013,22298
+3,Toneladas,33,Rio de Janeiro,2397,2014,18509
+3,Hectares,35,São Paulo,2396,2007,7320517
+3,Hectares,35,São Paulo,2396,2008,7577086
+3,Hectares,35,São Paulo,2396,2009,7545828
+3,Hectares,35,São Paulo,2396,2010,7791235
+3,Hectares,35,São Paulo,2396,2011,7935314
+3,Hectares,35,São Paulo,2396,2012,7917042
+3,Hectares,35,São Paulo,2396,2013,8128852
+3,Hectares,35,São Paulo,2396,2014,8333757
+3,Toneladas,35,São Paulo,2397,2007,1751106
+3,Toneladas,35,São Paulo,2397,2008,1376770
+3,Toneladas,35,São Paulo,2397,2009,1253124
+3,Toneladas,35,São Paulo,2397,2010,1389729
+3,Toneladas,35,São Paulo,2397,2011,1629469
+3,Toneladas,35,São Paulo,2397,2012,1589737
+3,Toneladas,35,São Paulo,2397,2013,1672173
+3,Toneladas,35,São Paulo,2397,2014,1580172
+3,Hectares,41,Paraná,2396,2007,9339112
+3,Hectares,41,Paraná,2396,2008,9810281
+3,Hectares,41,Paraná,2396,2009,10073403
+3,Hectares,41,Paraná,2396,2010,9708216
+3,Hectares,41,Paraná,2396,2011,9913841
+3,Hectares,41,Paraná,2396,2012,10034795
+3,Hectares,41,Paraná,2396,2013,10499661
+3,Hectares,41,Paraná,2396,2014,10714999
+3,Toneladas,41,Paraná,2397,2007,1533194
+3,Toneladas,41,Paraná,2397,2008,1364830
+3,Toneladas,41,Paraná,2397,2009,1273351
+3,Toneladas,41,Paraná,2397,2010,1276439
+3,Toneladas,41,Paraná,2397,2011,1494943
+3,Toneladas,41,Paraná,2397,2012,1492592
+3,Toneladas,41,Paraná,2397,2013,1652653
+3,Toneladas,41,Paraná,2397,2014,1743339
+3,Hectares,42,Santa Catarina,2396,2007,1723871
+3,Hectares,42,Santa Catarina,2396,2008,1759961
+3,Hectares,42,Santa Catarina,2396,2009,1731420
+3,Hectares,42,Santa Catarina,2396,2010,1666966
+3,Hectares,42,Santa Catarina,2396,2011,1628166
+3,Hectares,42,Santa Catarina,2396,2012,1564718
+3,Hectares,42,Santa Catarina,2396,2013,1596595
+3,Hectares,42,Santa Catarina,2396,2014,1622724
+3,Toneladas,42,Santa Catarina,2397,2007,284621
+3,Toneladas,42,Santa Catarina,2397,2008,286608
+3,Toneladas,42,Santa Catarina,2397,2009,301565
+3,Toneladas,42,Santa Catarina,2397,2010,265838
+3,Toneladas,42,Santa Catarina,2397,2011,268012
+3,Toneladas,42,Santa Catarina,2397,2012,298072
+3,Toneladas,42,Santa Catarina,2397,2013,363344
+3,Toneladas,42,Santa Catarina,2397,2014,327213
+3,Hectares,43,Rio Grande do Sul,2396,2007,7858712
+3,Hectares,43,Rio Grande do Sul,2396,2008,8091935
+3,Hectares,43,Rio Grande do Sul,2396,2009,8071101
+3,Hectares,43,Rio Grande do Sul,2396,2010,7942568
+3,Hectares,43,Rio Grande do Sul,2396,2011,8129861
+3,Hectares,43,Rio Grande do Sul,2396,2012,8270505
+3,Hectares,43,Rio Grande do Sul,2396,2013,8761460
+3,Hectares,43,Rio Grande do Sul,2396,2014,9048285
+3,Toneladas,43,Rio Grande do Sul,2397,2007,1157057
+3,Toneladas,43,Rio Grande do Sul,2397,2008,1100723
+3,Toneladas,43,Rio Grande do Sul,2397,2009,1254710
+3,Toneladas,43,Rio Grande do Sul,2397,2010,1334129
+3,Toneladas,43,Rio Grande do Sul,2397,2011,1440124
+3,Toneladas,43,Rio Grande do Sul,2397,2012,1569243
+3,Toneladas,43,Rio Grande do Sul,2397,2013,1829447
+3,Toneladas,43,Rio Grande do Sul,2397,2014,1924529
+3,Hectares,50,Mato Grosso do Sul,2396,2007,3025128
+3,Hectares,50,Mato Grosso do Sul,2396,2008,3243122
+3,Hectares,50,Mato Grosso do Sul,2396,2009,3211129
+3,Hectares,50,Mato Grosso do Sul,2396,2010,3250262
+3,Hectares,50,Mato Grosso do Sul,2396,2011,3502153
+3,Hectares,50,Mato Grosso do Sul,2396,2012,3818904
+3,Hectares,50,Mato Grosso do Sul,2396,2013,4323407
+3,Hectares,50,Mato Grosso do Sul,2396,2014,4557084
+3,Toneladas,50,Mato Grosso do Sul,2397,2007,487106
+3,Toneladas,50,Mato Grosso do Sul,2397,2008,452710
+3,Toneladas,50,Mato Grosso do Sul,2397,2009,421271
+3,Toneladas,50,Mato Grosso do Sul,2397,2010,509731
+3,Toneladas,50,Mato Grosso do Sul,2397,2011,545524
+3,Toneladas,50,Mato Grosso do Sul,2397,2012,658117
+3,Toneladas,50,Mato Grosso do Sul,2397,2013,721440
+3,Toneladas,50,Mato Grosso do Sul,2397,2014,789653
+3,Hectares,51,Mato Grosso,2396,2007,8019098
+3,Hectares,51,Mato Grosso,2396,2008,8726914
+3,Hectares,51,Mato Grosso,2396,2009,8822248
+3,Hectares,51,Mato Grosso,2396,2010,9433038
+3,Hectares,51,Mato Grosso,2396,2011,9941283
+3,Hectares,51,Mato Grosso,2396,2012,11319172
+3,Hectares,51,Mato Grosso,2396,2013,12779375
+3,Hectares,51,Mato Grosso,2396,2014,13613926
+3,Toneladas,51,Mato Grosso,2397,2007,1662818
+3,Toneladas,51,Mato Grosso,2397,2008,1507072
+3,Toneladas,51,Mato Grosso,2397,2009,1379615
+3,Toneladas,51,Mato Grosso,2397,2010,1678326
+3,Toneladas,51,Mato Grosso,2397,2011,1892639
+3,Toneladas,51,Mato Grosso,2397,2012,2272601
+3,Toneladas,51,Mato Grosso,2397,2013,2455688
+3,Toneladas,51,Mato Grosso,2397,2014,2518549
+3,Hectares,52,Goiás,2396,2007,4081790
+3,Hectares,52,Goiás,2396,2008,4225916
+3,Hectares,52,Goiás,2396,2009,4446666
+3,Hectares,52,Goiás,2396,2010,4511942
+3,Hectares,52,Goiás,2396,2011,4926515
+3,Hectares,52,Goiás,2396,2012,5282270
+3,Hectares,52,Goiás,2396,2013,5635281
+3,Hectares,52,Goiás,2396,2014,6122423
+3,Toneladas,52,Goiás,2397,2007,957860
+3,Toneladas,52,Goiás,2397,2008,859773
+3,Toneladas,52,Goiás,2397,2009,718694
+3,Toneladas,52,Goiás,2397,2010,928044
+3,Toneladas,52,Goiás,2397,2011,1173534
+3,Toneladas,52,Goiás,2397,2012,1208830
+3,Toneladas,52,Goiás,2397,2013,1276203
+3,Toneladas,52,Goiás,2397,2014,1352191
+3,Hectares,53,Distrito Federal,2396,2007,115327
+3,Hectares,53,Distrito Federal,2396,2008,132665
+3,Hectares,53,Distrito Federal,2396,2009,122142
+3,Hectares,53,Distrito Federal,2396,2010,119198
+3,Hectares,53,Distrito Federal,2396,2011,127644
+3,Hectares,53,Distrito Federal,2396,2012,134905
+3,Hectares,53,Distrito Federal,2396,2013,136665
+3,Hectares,53,Distrito Federal,2396,2014,174553
+3,Toneladas,53,Distrito Federal,2397,2007,18982
+3,Toneladas,53,Distrito Federal,2397,2008,15867
+3,Toneladas,53,Distrito Federal,2397,2009,15333
+3,Toneladas,53,Distrito Federal,2397,2010,19480
+3,Toneladas,53,Distrito Federal,2397,2011,25993
+3,Toneladas,53,Distrito Federal,2397,2012,27970
+3,Toneladas,53,Distrito Federal,2397,2013,31504
+3,Toneladas,53,Distrito Federal,2397,2014,33862

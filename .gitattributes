@@ -1,0 +1,3 @@
+# Sem conversão de fim de linha: os arquivos ficam byte a byte como no disco,
+# para que o SHA-256 do MANIFESTO.csv continue valendo em qualquer sistema.
+* -text

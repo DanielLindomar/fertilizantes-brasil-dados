@@ -1,0 +1,290 @@
+arquivo,coluna,descricao,unidade,fonte
+br_anual_nutrientes_faostat.csv,ano,Ano civil,ano,FAOSTAT
+br_anual_nutrientes_faostat.csv,nutriente,"Nutriente: N, P2O5, K2O ou NPK (soma dos três)",,FAOSTAT RFN
+br_anual_nutrientes_faostat.csv,producao_t,"Produção nacional de fertilizantes, em nutriente",t de nutriente,"FAOSTAT RFN, elemento 5510"
+br_anual_nutrientes_faostat.csv,importacao_t,"Importação, em nutriente",t de nutriente,"FAOSTAT RFN, elemento 5610"
+br_anual_nutrientes_faostat.csv,exportacao_t,"Exportação, em nutriente",t de nutriente,"FAOSTAT RFN, elemento 5910"
+br_anual_nutrientes_faostat.csv,uso_agricola_t,"Uso agrícola, em nutriente",t de nutriente,"FAOSTAT RFN, elemento 5157"
+br_anual_nutrientes_faostat.csv,uso_kg_ha,Uso por área de lavoura (cropland),kg/ha,"FAOSTAT RFN, elemento 5159"
+br_anual_nutrientes_faostat.csv,flag_uso,"Flag da FAO para o uso agrícola (A oficial, E estimado, I imputado, X internacional)",,FAOSTAT RFN
+br_anual_nutrientes_faostat.csv,consumo_aparente_t,Consumo aparente = produção + importação - exportação,t de nutriente,cálculo próprio
+br_anual_nutrientes_faostat.csv,dependencia_importacao_pct,Importação dividida pelo uso agrícola,%,cálculo próprio
+br_anual_nutrientes_faostat.csv,dependencia_liquida_pct,Importação líquida dividida pelo consumo aparente,%,cálculo próprio
+br_anual_produtos_faostat.csv,ano,Ano civil,ano,FAOSTAT
+br_anual_produtos_faostat.csv,item_cod,Código do item na FAOSTAT,,FAOSTAT RFB
+br_anual_produtos_faostat.csv,produto_fao,Nome do produto na FAOSTAT (inglês),,FAOSTAT RFB
+br_anual_produtos_faostat.csv,produto,Nome do produto em português,,tradução própria
+br_anual_produtos_faostat.csv,producao_t,Produção nacional,t de produto,FAOSTAT RFB
+br_anual_produtos_faostat.csv,importacao_t,Importação,t de produto,FAOSTAT RFB
+br_anual_produtos_faostat.csv,exportacao_t,Exportação,t de produto,FAOSTAT RFB
+br_anual_produtos_faostat.csv,uso_agricola_t,Uso agrícola,t de produto,FAOSTAT RFB
+br_anual_produtos_faostat.csv,importacao_mil_usd,Valor da importação,mil US$,FAOSTAT RFB
+br_anual_produtos_faostat.csv,exportacao_mil_usd,Valor da exportação,mil US$,FAOSTAT RFB
+br_anual_balanco_nutrientes_faostat.csv,ano,Ano civil,ano,FAOSTAT
+br_anual_balanco_nutrientes_faostat.csv,nutriente,"Nutriente elementar: N, P ou K (não é P2O5 nem K2O)",,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,fertilizante_mineral_t,"Entrada por fertilizantes minerais, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,esterco_aplicado_t,"Entrada por esterco aplicado, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,deposicao_atmosferica_t,"Entrada por deposição atmosférica (só N), em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,fixacao_biologica_t,"Entrada por fixação biológica (só N), em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,sementes_t,"Entrada por sementes, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,entradas_t,"Total de entradas, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,remocao_colheita_t,"Remoção pela colheita, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,remocao_residuos_t,"Remoção por resíduos de cultura, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,lixiviacao_t,"Perda por lixiviação (só N), em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,volatilizacao_t,"Perda por volatilização (só N), em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,saidas_t,"Total de saídas, em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,balanco_t,"Balanço (entradas - saídas), em lavouras",t de nutriente elementar,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,balanco_kg_ha,Balanço por área de lavoura,kg/ha,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,fertilizante_mineral_kg_ha,Fertilizante mineral por área de lavoura,kg/ha,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_anual_balanco_nutrientes_faostat.csv,eficiencia_uso_pct,Eficiência de uso do nutriente (saídas / entradas),%,"FAOSTAT ESB (Ludemann et al., 2024)"
+br_mensal_anda.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,ANDA
+br_mensal_anda.csv,ano,Ano,ano,ANDA
+br_mensal_anda.csv,mes,Mês,1-12,ANDA
+br_mensal_anda.csv,entregas_t,Fertilizantes entregues ao mercado,t de produto,ANDA
+br_mensal_anda.csv,producao_t,Produção nacional de fertilizantes intermediários,t de produto,ANDA
+br_mensal_anda.csv,importacao_t,Importação de fertilizantes intermediários,t de produto,ANDA
+br_mensal_anda.csv,exportacao_t,Exportação de fertilizantes e formulações NPK (a partir de 2013),t de produto,ANDA
+br_mensal_anda.csv,entregas_ipeadata_t,"Entregas segundo o Ipeadata, para conferência (diverge em alguns anos)",t de produto,"ANDA, via Ipeadata"
+br_mensal_anda.csv,fonte,Origem do valor das quatro séries: PDF da ANDA (2013 em diante) ou Ipeadata (1998-2012),,
+br_mensal_precos_cambio.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,
+br_mensal_precos_cambio.csv,ano,Ano,ano,
+br_mensal_precos_cambio.csv,mes,Mês,1-12,
+br_mensal_precos_cambio.csv,gas_natural_eua_usd_mmbtu,"Preço internacional: Gás natural, EUA (Henry Hub)",US$/mmbtu,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,gas_natural_europa_usd_mmbtu,"Preço internacional: Gás natural, Europa",US$/mmbtu,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,gas_natural_indice,Preço internacional: Índice de gás natural,2010 = 100,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,soja_usd_t,Preço internacional: Soja,US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,milho_usd_t,Preço internacional: Milho,US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,rocha_fosfatica_usd_t,Preço internacional: Rocha fosfática,US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,dap_usd_t,Preço internacional: Fosfato diamônico (DAP),US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,tsp_usd_t,Preço internacional: Superfosfato triplo (TSP),US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,ureia_usd_t,"Preço internacional: Ureia (a partir de mar/2022, FOB Oriente Médio)",US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,kcl_usd_t,"Preço internacional: Cloreto de potássio (a partir de jan/2020, CFR Brasil)",US$/t,"Banco Mundial, Pink Sheet"
+br_mensal_precos_cambio.csv,cambio_brl_usd_media,"Taxa de câmbio livre, dólar (venda), média do mês (antes de jul/1994, na moeda da época)",R$/US$,BCB-SGS 3698
+br_mensal_precos_cambio.csv,cambio_brl_usd_fim,"Taxa de câmbio livre, dólar (venda), fim do mês (antes de jul/1994, na moeda da época)",R$/US$,BCB-SGS 3696
+br_mensal_precos_cambio.csv,cambio_real_efetivo_indice,Taxa de câmbio real efetiva (IPCA),jun/1994 = 100,BCB-SGS 11752
+br_mensal_precos_cambio.csv,cambio_real_usd_indice,Taxa de câmbio real bilateral com o dólar (IPCA),jun/1994 = 100,BCB-SGS 11753
+br_mensal_precos_cambio.csv,ureia_brl_t,Preço internacional convertido pelo câmbio médio do mês (ureia); só a partir de jul/1994,R$/t,cálculo próprio
+br_mensal_precos_cambio.csv,dap_brl_t,Preço internacional convertido pelo câmbio médio do mês (dap); só a partir de jul/1994,R$/t,cálculo próprio
+br_mensal_precos_cambio.csv,tsp_brl_t,Preço internacional convertido pelo câmbio médio do mês (tsp); só a partir de jul/1994,R$/t,cálculo próprio
+br_mensal_precos_cambio.csv,kcl_brl_t,Preço internacional convertido pelo câmbio médio do mês (kcl); só a partir de jul/1994,R$/t,cálculo próprio
+br_mensal_precos_cambio.csv,rocha_fosfatica_brl_t,Preço internacional convertido pelo câmbio médio do mês (rocha_fosfatica); só a partir de jul/1994,R$/t,cálculo próprio
+br_mensal_precos_cambio.csv,rt_ureia_milho,Relação de troca: t de milho para comprar 1 t de ureia (preços internacionais),t/t,cálculo próprio
+br_mensal_precos_cambio.csv,rt_kcl_soja,Relação de troca: t de soja para comprar 1 t de KCl (preços internacionais),t/t,cálculo próprio
+br_mensal_precos_cambio.csv,rt_dap_soja,Relação de troca: t de soja para comprar 1 t de DAP (preços internacionais),t/t,cálculo próprio
+br_mensal_comercio_comex.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,ano,Ano,ano,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,mes,Mês,1-12,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,grupo_sh4,Posição do Sistema Harmonizado (3101 a 3105) ou 31 para o capítulo inteiro,,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,grupo,Nome do grupo de fertilizantes,,classificação própria
+br_mensal_comercio_comex.csv,importacao_t,"Importação, peso líquido",t de produto,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,importacao_fob_usd,"Importação, valor FOB",US$,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,importacao_cif_usd,"Importação, valor CIF (só NCM, 1997 em diante)",US$,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,importacao_frete_usd,"Importação, frete (só NCM, 1997 em diante)",US$,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,exportacao_t,"Exportação, peso líquido (só NCM, 1997 em diante)",t de produto,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,exportacao_fob_usd,"Exportação, valor FOB (só NCM, 1997 em diante)",US$,Comex Stat (MDIC/Secex)
+br_mensal_comercio_comex.csv,preco_medio_importacao_fob_usd_t,Valor FOB dividido pelo peso importado,US$/t,cálculo próprio
+br_mensal_comercio_comex.csv,preco_medio_importacao_cif_usd_t,Valor CIF dividido pelo peso importado,US$/t,cálculo próprio
+br_mensal_comercio_comex.csv,nomenclatura,"NBM (1989-1996, só importação; há linhas sem peso na fonte) ou NCM (1997 em diante)",,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,ano,Ano,ano,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,mes,Mês,1-12,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,ncm,Código NCM de 8 dígitos (capítulo 31),,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,descricao,Descrição da NCM,,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,grupo_sh4,Posição do Sistema Harmonizado (4 dígitos),,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,importacao_t,"Importação, peso líquido",t de produto,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,importacao_fob_usd,"Importação, valor FOB",US$,Comex Stat (MDIC/Secex)
+br_mensal_importacao_ncm.csv,importacao_cif_usd,"Importação, valor CIF",US$,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,ano,Ano,ano,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,mes,Mês,1-12,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,posicao_sh4,"Posição do Sistema Harmonizado: 2503, 2510, 2807, 2809 ou 2814",,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,materia_prima,"Enxofre, rocha fosfática, ácido sulfúrico, ácido fosfórico ou amônia",,classificação própria
+br_mensal_importacao_materias_primas.csv,importacao_t,"Importação, peso líquido",t de produto,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,importacao_fob_usd,"Importação, valor FOB",US$,Comex Stat (MDIC/Secex)
+br_mensal_importacao_materias_primas.csv,importacao_cif_usd,"Importação, valor CIF",US$,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,ano,Ano civil,ano,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,pais,País de origem,,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,grupo_sh4,Posição do Sistema Harmonizado (3101 a 3105) ou 31 para o capítulo inteiro,,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,grupo,Nome do grupo de fertilizantes,,classificação própria
+br_anual_importacao_origem.csv,importacao_t,"Importação, peso líquido",t de produto,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,importacao_fob_usd,"Importação, valor FOB",US$,Comex Stat (MDIC/Secex)
+br_anual_importacao_origem.csv,participacao_pct,Participação do país no peso importado do grupo naquele ano,%,cálculo próprio
+br_anual_importacao_origem.csv,ano_parcial,"1 quando o ano não está completo na fonte (hoje: 2026, até o mês 10)",0/1,
+br_anual_importacao_origem.csv,nomenclatura,NBM (1989-1996) ou NCM (1997 em diante),,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,ano,Ano civil,ano,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,uf_cod,Código IBGE da UF,,IBGE
+uf_anual_importacao_comex.csv,uf,Sigla da UF,,IBGE
+uf_anual_importacao_comex.csv,uf_nome,Nome da UF,,IBGE
+uf_anual_importacao_comex.csv,regiao,Grande Região,,IBGE
+uf_anual_importacao_comex.csv,grupo_sh4,Posição do Sistema Harmonizado (3101 a 3105) ou 31 para o capítulo inteiro,,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,grupo,Nome do grupo de fertilizantes,,classificação própria
+uf_anual_importacao_comex.csv,importacao_t,"Importação, peso líquido, por UF do produto (destino declarado, não a UF de aplicação)",t de produto,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,importacao_fob_usd,"Importação, valor FOB",US$,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,importacao_cif_usd,"Importação, valor CIF",US$,Comex Stat (MDIC/Secex)
+uf_anual_importacao_comex.csv,ano_parcial,"1 quando o ano não está completo na fonte (hoje: 2026, até o mês 10)",0/1,
+uf_anual_entregas_nutriente_ids.csv,ano,Ano civil,ano,"IBGE, Indicadores de Desenvolvimento Sustentável"
+uf_anual_entregas_nutriente_ids.csv,nivel,"Nível territorial: BR (Brasil), GR (Grande Região) ou UF",,"IBGE, Indicadores de Desenvolvimento Sustentável"
+uf_anual_entregas_nutriente_ids.csv,local_cod,Código do local no nível (atenção: 1 é Brasil no nível BR e Norte no nível GR),,"IBGE, Indicadores de Desenvolvimento Sustentável"
+uf_anual_entregas_nutriente_ids.csv,local_nome,Nome do local,,"IBGE, Indicadores de Desenvolvimento Sustentável"
+uf_anual_entregas_nutriente_ids.csv,uf,Sigla da UF (vazio para BR e GR),,IBGE
+uf_anual_entregas_nutriente_ids.csv,nutriente,"Total, N, P2O5 ou K2O",,"IBGE, Indicadores de Desenvolvimento Sustentável"
+uf_anual_entregas_nutriente_ids.csv,entregas_t,"Fertilizantes entregues ao consumidor final, em nutriente (2007-2014)",t de nutriente,"IBGE, Indicadores de Desenvolvimento Sustentável, SIDRA 770"
+uf_anual_entregas_nutriente_ids.csv,kg_ha,"Fertilizantes por área plantada (Brasil desde 1992, pela tabela 768)",kg/ha,"IBGE, Indicadores de Desenvolvimento Sustentável, SIDRA 770 e 768"
+uf_anual_entregas_nutriente_ids.csv,area_plantada_ha,Área plantada das principais culturas (igual para todos os nutrientes),ha,"IBGE, Indicadores de Desenvolvimento Sustentável, SIDRA 769"
+uf_anual_area_culturas_pam.csv,ano,Ano civil,ano,"IBGE, PAM, SIDRA 5457"
+uf_anual_area_culturas_pam.csv,nivel,BR (Brasil) ou UF,,"IBGE, PAM, SIDRA 5457"
+uf_anual_area_culturas_pam.csv,uf_cod,Código IBGE da UF (0 para o Brasil),,IBGE
+uf_anual_area_culturas_pam.csv,uf,Sigla da UF (BR para o Brasil),,IBGE
+uf_anual_area_culturas_pam.csv,uf_nome,Nome da UF,,IBGE
+uf_anual_area_culturas_pam.csv,regiao,Grande Região,,IBGE
+uf_anual_area_culturas_pam.csv,cultura,Total das lavouras ou uma das nove culturas principais,,"IBGE, PAM, SIDRA 5457"
+uf_anual_area_culturas_pam.csv,area_plantada_ha,Área plantada ou destinada à colheita (1988 em diante),ha,"IBGE, PAM, SIDRA 5457, variável 8331"
+uf_anual_area_culturas_pam.csv,area_colhida_ha,Área colhida,ha,"IBGE, PAM, SIDRA 5457, variável 216"
+uf_anual_area_culturas_pam.csv,quantidade_t,Quantidade produzida (vazio para o total; laranja em t só a partir de 2001),t,"IBGE, PAM, SIDRA 5457, variável 214"
+uf_anual_area_culturas_pam.csv,valor_producao_mil_reais,"Valor da produção, em reais correntes (1994 em diante)",mil R$,"IBGE, PAM, SIDRA 5457, variável 215"
+uf_censo_adubacao.csv,ano_censo,Ano de referência do Censo Agropecuário,2006 ou 2017,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,nivel,BR (Brasil) ou UF,,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,uf_cod,Código IBGE da UF (0 para o Brasil),,IBGE
+uf_censo_adubacao.csv,uf,Sigla da UF (BR para o Brasil),,IBGE
+uf_censo_adubacao.csv,uf_nome,Nome da UF,,IBGE
+uf_censo_adubacao.csv,regiao,Grande Região,,IBGE
+uf_censo_adubacao.csv,estab_total,Estabelecimentos agropecuários,unidades,"IBGE, Censo Agropecuário, SIDRA 864 (2006) e 6847 (2017)"
+uf_censo_adubacao.csv,estab_adubou_no_ano,Estabelecimentos que adubaram no ano de referência (2006: 'usa' menos 'não precisou usar em 2006'),unidades,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,estab_costuma_adubar,Estabelecimentos que costumam adubar (2017: adubou + não adubou mas costuma),unidades,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,pct_adubou_no_ano,Participação dos que adubaram no ano,%,cálculo próprio
+uf_censo_adubacao.csv,pct_costuma_adubar,Participação dos que costumam adubar,%,cálculo próprio
+uf_censo_adubacao.csv,estab_so_quimica,Fez só adubação química (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+uf_censo_adubacao.csv,estab_so_organica,Fez só adubação orgânica (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+uf_censo_adubacao.csv,estab_quimica_e_organica,Fez adubação química e orgânica (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+uf_censo_adubacao.csv,estab_adubacao_quimica,"Fez adubação química, com ou sem orgânica (só 2017)",unidades,cálculo próprio
+uf_censo_adubacao.csv,pct_adubacao_quimica,Participação dos que fizeram adubação química (só 2017),%,cálculo próprio
+uf_censo_adubacao.csv,estab_aplicou_calcario,Aplicou calcário ou outro corretivo de pH (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6849"
+uf_censo_adubacao.csv,pct_aplicou_calcario,Participação dos que aplicaram calcário (só 2017),%,cálculo próprio
+uf_censo_adubacao.csv,estab_com_despesa_adubos,Estabelecimentos com despesa em adubos (só 2006),unidades,"IBGE, Censo Agropecuário, SIDRA 833"
+uf_censo_adubacao.csv,estab_com_despesa_corretivos,Estabelecimentos com despesa em corretivos do solo (só 2006),unidades,"IBGE, Censo Agropecuário, SIDRA 833"
+uf_censo_adubacao.csv,estab_com_despesa_adubos_corretivos,Estabelecimentos com despesa em adubos e corretivos (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6899"
+uf_censo_adubacao.csv,despesa_adubos_mil_reais,"Despesa com adubos, em reais do ano do censo (só 2006)",mil R$,"IBGE, Censo Agropecuário, SIDRA 833"
+uf_censo_adubacao.csv,despesa_corretivos_mil_reais,"Despesa com corretivos do solo, em reais do ano do censo (só 2006)",mil R$,"IBGE, Censo Agropecuário, SIDRA 833"
+uf_censo_adubacao.csv,despesa_adubos_corretivos_mil_reais,"Despesa com adubos e corretivos, em reais do ano do censo (2006: soma das duas rubricas)",mil R$,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,despesa_agrotoxicos_mil_reais,"Despesa com agrotóxicos, em reais do ano do censo",mil R$,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,despesa_total_mil_reais,"Despesa total dos estabelecimentos, em reais do ano do censo",mil R$,"IBGE, Censo Agropecuário"
+uf_censo_adubacao.csv,pct_despesa_adubos_corretivos,Adubos e corretivos na despesa total,%,cálculo próprio
+mun_censo_adubacao.csv,ano_censo,Ano de referência do Censo Agropecuário,2006 ou 2017,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,municipio_cod,Código IBGE do município (7 dígitos),,IBGE
+mun_censo_adubacao.csv,municipio,Nome do município,,IBGE
+mun_censo_adubacao.csv,uf,Sigla da UF,,IBGE
+mun_censo_adubacao.csv,estab_total,Estabelecimentos agropecuários,unidades,"IBGE, Censo Agropecuário, SIDRA 864 (2006) e 6847 (2017)"
+mun_censo_adubacao.csv,estab_adubou_no_ano,Estabelecimentos que adubaram no ano de referência (2006: 'usa' menos 'não precisou usar em 2006'),unidades,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,estab_costuma_adubar,Estabelecimentos que costumam adubar (2017: adubou + não adubou mas costuma),unidades,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,pct_adubou_no_ano,Participação dos que adubaram no ano,%,cálculo próprio
+mun_censo_adubacao.csv,pct_costuma_adubar,Participação dos que costumam adubar,%,cálculo próprio
+mun_censo_adubacao.csv,estab_so_quimica,Fez só adubação química (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+mun_censo_adubacao.csv,estab_so_organica,Fez só adubação orgânica (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+mun_censo_adubacao.csv,estab_quimica_e_organica,Fez adubação química e orgânica (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6847"
+mun_censo_adubacao.csv,estab_adubacao_quimica,"Fez adubação química, com ou sem orgânica (só 2017)",unidades,cálculo próprio
+mun_censo_adubacao.csv,pct_adubacao_quimica,Participação dos que fizeram adubação química (só 2017),%,cálculo próprio
+mun_censo_adubacao.csv,estab_aplicou_calcario,Aplicou calcário ou outro corretivo de pH (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6849"
+mun_censo_adubacao.csv,pct_aplicou_calcario,Participação dos que aplicaram calcário (só 2017),%,cálculo próprio
+mun_censo_adubacao.csv,estab_com_despesa_adubos,Estabelecimentos com despesa em adubos (só 2006),unidades,"IBGE, Censo Agropecuário, SIDRA 833"
+mun_censo_adubacao.csv,estab_com_despesa_corretivos,Estabelecimentos com despesa em corretivos do solo (só 2006),unidades,"IBGE, Censo Agropecuário, SIDRA 833"
+mun_censo_adubacao.csv,estab_com_despesa_adubos_corretivos,Estabelecimentos com despesa em adubos e corretivos (só 2017),unidades,"IBGE, Censo Agropecuário, SIDRA 6899"
+mun_censo_adubacao.csv,despesa_adubos_mil_reais,"Despesa com adubos, em reais do ano do censo (só 2006)",mil R$,"IBGE, Censo Agropecuário, SIDRA 833"
+mun_censo_adubacao.csv,despesa_corretivos_mil_reais,"Despesa com corretivos do solo, em reais do ano do censo (só 2006)",mil R$,"IBGE, Censo Agropecuário, SIDRA 833"
+mun_censo_adubacao.csv,despesa_adubos_corretivos_mil_reais,"Despesa com adubos e corretivos, em reais do ano do censo (2006: soma das duas rubricas)",mil R$,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,despesa_agrotoxicos_mil_reais,"Despesa com agrotóxicos, em reais do ano do censo",mil R$,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,despesa_total_mil_reais,"Despesa total dos estabelecimentos, em reais do ano do censo",mil R$,"IBGE, Censo Agropecuário"
+mun_censo_adubacao.csv,pct_despesa_adubos_corretivos,Adubos e corretivos na despesa total,%,cálculo próprio
+painel_br_anual.csv,ano,Ano civil,ano,
+painel_br_anual.csv,fao_n_uso_t,Uso agrícola de N,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_uso_t,Uso agrícola de P2O5,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_uso_t,Uso agrícola de K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_n_producao_t,Produção de N,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_producao_t,Produção de P2O5,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_producao_t,Produção de K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_n_importacao_t,Importação de N,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_importacao_t,Importação de P2O5,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_importacao_t,Importação de K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_n_exportacao_t,Exportação de N,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_exportacao_t,Exportação de P2O5,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_exportacao_t,Exportação de K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_n_dependencia_pct,Importação dividida pelo uso agrícola de N,%,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_dependencia_pct,Importação dividida pelo uso agrícola de P2O5,%,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_dependencia_pct,Importação dividida pelo uso agrícola de K2O,%,FAOSTAT RFN
+painel_br_anual.csv,fao_n_kg_ha,Uso por área de lavoura de N,kg/ha,FAOSTAT RFN
+painel_br_anual.csv,fao_p2o5_kg_ha,Uso por área de lavoura de P2O5,kg/ha,FAOSTAT RFN
+painel_br_anual.csv,fao_k2o_kg_ha,Uso por área de lavoura de K2O,kg/ha,FAOSTAT RFN
+painel_br_anual.csv,fao_npk_uso_t,Uso agrícola de N + P2O5 + K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_npk_importacao_t,Importação de N + P2O5 + K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_npk_producao_t,Produção de N + P2O5 + K2O,t de nutriente,FAOSTAT RFN
+painel_br_anual.csv,fao_npk_dependencia_pct,"Importação dividida pelo uso agrícola, N + P2O5 + K2O",%,FAOSTAT RFN
+painel_br_anual.csv,fao_npk_kg_ha,Uso de N + P2O5 + K2O por área de lavoura,kg/ha,FAOSTAT RFN
+painel_br_anual.csv,anda_entregas_t,"Entregas ao mercado, soma dos meses disponíveis",t de produto,ANDA
+painel_br_anual.csv,anda_producao_t,"Produção nacional, soma dos meses disponíveis",t de produto,ANDA
+painel_br_anual.csv,anda_importacao_t,"Importação, soma dos meses disponíveis",t de produto,ANDA
+painel_br_anual.csv,anda_exportacao_t,"Exportação, soma dos meses disponíveis (2013 em diante)",t de produto,ANDA
+painel_br_anual.csv,anda_meses,Meses com dado de entregas no ano,meses,ANDA
+painel_br_anual.csv,comex_importacao_t,"Importação do capítulo 31 (NBM até 1996, NCM depois)",t de produto,Comex Stat
+painel_br_anual.csv,comex_importacao_fob_usd,"Importação do capítulo 31, valor FOB",US$,Comex Stat
+painel_br_anual.csv,comex_exportacao_t,Exportação do capítulo 31 (1997 em diante),t de produto,Comex Stat
+painel_br_anual.csv,comex_meses,Meses com dado de importação no ano,meses,Comex Stat
+painel_br_anual.csv,pam_area_plantada_ha,"Área plantada, total das lavouras (1988 em diante)",ha,"IBGE, PAM"
+painel_br_anual.csv,pam_area_colhida_ha,"Área colhida, total das lavouras",ha,"IBGE, PAM"
+painel_br_anual.csv,ureia_usd_t,"Ureia, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,dap_usd_t,"DAP, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,tsp_usd_t,"TSP, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,kcl_usd_t,"Cloreto de potássio, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,rocha_fosfatica_usd_t,"Rocha fosfática, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,gas_natural_europa_usd_mmbtu,"Gás natural na Europa, média anual",US$/mmbtu,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,soja_usd_t,"Soja, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,milho_usd_t,"Milho, média anual",US$/t,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,cambio_brl_usd_media,"Câmbio, média das médias mensais (1995 em diante)",R$/US$,BCB-SGS 3698
+painel_br_anual.csv,cambio_real_efetivo_indice,"Câmbio real efetivo (IPCA), média anual",jun/1994 = 100,BCB-SGS 11752
+painel_br_anual.csv,precos_meses,Meses com preço da ureia no ano,meses,"Banco Mundial, Pink Sheet"
+painel_br_anual.csv,ano_parcial,1 quando o ano não está completo nas fontes mensais,0/1,
+painel_br_mensal.csv,data,Mês de referência (primeiro dia),AAAA-MM-DD,
+painel_br_mensal.csv,ano,Ano,ano,
+painel_br_mensal.csv,mes,Mês,1-12,
+painel_br_mensal.csv,anda_entregas_t,Entregas ao mercado,t de produto,ANDA
+painel_br_mensal.csv,anda_producao_t,Produção nacional,t de produto,ANDA
+painel_br_mensal.csv,anda_importacao_t,Importação segundo a ANDA,t de produto,ANDA
+painel_br_mensal.csv,anda_exportacao_t,Exportação segundo a ANDA (2013 em diante),t de produto,ANDA
+painel_br_mensal.csv,comex_importacao_t,Importação do capítulo 31,t de produto,Comex Stat
+painel_br_mensal.csv,comex_importacao_fob_usd,"Importação do capítulo 31, valor FOB",US$,Comex Stat
+painel_br_mensal.csv,comex_importacao_cif_usd,"Importação do capítulo 31, valor CIF",US$,Comex Stat
+painel_br_mensal.csv,comex_exportacao_t,Exportação do capítulo 31,t de produto,Comex Stat
+painel_br_mensal.csv,comex_preco_medio_fob_usd_t,"Valor FOB dividido pelo peso importado, capítulo 31",US$/t,cálculo próprio
+painel_br_mensal.csv,comex_imp_nitrogenados_t,Importação da posição 3102,t de produto,Comex Stat
+painel_br_mensal.csv,comex_imp_fosfatados_t,Importação da posição 3103,t de produto,Comex Stat
+painel_br_mensal.csv,comex_imp_potassicos_t,Importação da posição 3104,t de produto,Comex Stat
+painel_br_mensal.csv,comex_imp_mistos_t,"Importação da posição 3105 (NPK, MAP, DAP e outros)",t de produto,Comex Stat
+painel_br_mensal.csv,ureia_usd_t,Ureia,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,dap_usd_t,DAP,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,tsp_usd_t,TSP,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,kcl_usd_t,Cloreto de potássio,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,rocha_fosfatica_usd_t,Rocha fosfática,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,gas_natural_europa_usd_mmbtu,Gás natural na Europa,US$/mmbtu,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,soja_usd_t,Soja,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,milho_usd_t,Milho,US$/t,"Banco Mundial, Pink Sheet"
+painel_br_mensal.csv,cambio_brl_usd_media,"Câmbio, média do mês",R$/US$,BCB-SGS 3698
+painel_br_mensal.csv,cambio_real_efetivo_indice,Câmbio real efetivo (IPCA),jun/1994 = 100,BCB-SGS 11752
+painel_uf_anual.csv,ano,Ano civil,ano,
+painel_uf_anual.csv,uf_cod,Código IBGE da UF,,IBGE
+painel_uf_anual.csv,uf,Sigla da UF,,IBGE
+painel_uf_anual.csv,uf_nome,Nome da UF,,IBGE
+painel_uf_anual.csv,regiao,Grande Região,,IBGE
+painel_uf_anual.csv,pam_area_plantada_ha,"Área plantada, total das lavouras (1988 em diante)",ha,"IBGE, PAM"
+painel_uf_anual.csv,pam_area_colhida_ha,"Área colhida, total das lavouras",ha,"IBGE, PAM"
+painel_uf_anual.csv,pam_soja_colhida_ha,Área colhida de soja,ha,"IBGE, PAM"
+painel_uf_anual.csv,pam_milho_colhida_ha,Área colhida de milho,ha,"IBGE, PAM"
+painel_uf_anual.csv,pam_cana_colhida_ha,Área colhida de cana-de-açúcar,ha,"IBGE, PAM"
+painel_uf_anual.csv,comex_importacao_t,Importação do capítulo 31 por UF do produto (1997 em diante),t de produto,Comex Stat
+painel_uf_anual.csv,comex_importacao_fob_usd,"Importação do capítulo 31, valor FOB",US$,Comex Stat
+painel_uf_anual.csv,ids_entregas_total_t,"Entregas ao consumidor final, N + P2O5 + K2O (2007-2014)",t de nutriente,"IBGE, IDS, SIDRA 770"
+painel_uf_anual.csv,ids_entregas_n_t,Entregas de N (2007-2014),t de nutriente,"IBGE, IDS, SIDRA 770"
+painel_uf_anual.csv,ids_entregas_p2o5_t,Entregas de P2O5 (2007-2014),t de nutriente,"IBGE, IDS, SIDRA 770"
+painel_uf_anual.csv,ids_entregas_k2o_t,Entregas de K2O (2007-2014),t de nutriente,"IBGE, IDS, SIDRA 770"
+painel_uf_anual.csv,ids_kg_ha,Fertilizantes por área plantada (2007-2014),kg/ha,"IBGE, IDS, SIDRA 770"
+painel_uf_anual.csv,censo_pct_adubou_no_ano,Estabelecimentos que adubaram no ano (só 2006 e 2017),%,"IBGE, Censo Agropecuário"
+painel_uf_anual.csv,censo_pct_costuma_adubar,Estabelecimentos que costumam adubar (só 2006 e 2017),%,"IBGE, Censo Agropecuário"
+painel_uf_anual.csv,censo_despesa_adubos_corretivos_mil_reais,"Despesa com adubos e corretivos, reais do ano do censo (só 2006 e 2017)",mil R$,"IBGE, Censo Agropecuário"
+painel_uf_anual.csv,ano_parcial,1 quando o ano não está completo no Comex Stat,0/1,

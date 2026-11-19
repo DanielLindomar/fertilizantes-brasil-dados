@@ -1,0 +1,186 @@
+{
+  "gerado_em": "2026-11-19",
+  "versoes_das_fontes": {
+    "tratados/faostat": "2026-11-19",
+    "tratados/anda": "2026-11-19",
+    "brutos/ipeadata": "2026-11-19",
+    "tratados/banco_mundial": "2026-11-19",
+    "brutos/bcb_sgs": "2026-11-19",
+    "brutos/comex_stat": "2026-11-19",
+    "brutos/ibge_sidra": "2026-11-19"
+  },
+  "comex_ano_parcial": 2026,
+  "comex_ultimo_mes": 10,
+  "arquivos": {
+    "painel_br_anual.csv": {
+      "nivel": "Brasil",
+      "frequencia": "anual",
+      "conteudo": "Painel integrado: FAOSTAT, ANDA, Comex Stat, PAM, preços e câmbio numa linha por ano",
+      "fonte": "várias",
+      "bytes": 18257,
+      "linhas": 66,
+      "colunas": 47,
+      "periodo": "1961-2026"
+    },
+    "painel_br_mensal.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Painel integrado: ANDA, Comex Stat, preços e câmbio numa linha por mês",
+      "fonte": "várias",
+      "bytes": 68117,
+      "linhas": 358,
+      "colunas": 26,
+      "periodo": "1997-01 a 2026-10"
+    },
+    "painel_uf_anual.csv": {
+      "nivel": "UF",
+      "frequencia": "anual",
+      "conteudo": "Painel balanceado por UF e ano: PAM, Comex Stat, IDS e Censos",
+      "fonte": "várias",
+      "bytes": 120572,
+      "linhas": 1431,
+      "colunas": 21,
+      "periodo": "1974-2026"
+    },
+    "br_anual_nutrientes_faostat.csv": {
+      "nivel": "Brasil",
+      "frequencia": "anual",
+      "conteudo": "Produção, importação, exportação e uso agrícola de N, P2O5 e K2O; kg/ha; dependência de importação",
+      "fonte": "FAOSTAT RFN",
+      "bytes": 14912,
+      "linhas": 256,
+      "colunas": 11,
+      "periodo": "1961-2024"
+    },
+    "br_anual_produtos_faostat.csv": {
+      "nivel": "Brasil",
+      "frequencia": "anual",
+      "conteudo": "Produção, comércio e uso por produto (ureia, MAP, KCl e outros 20)",
+      "fonte": "FAOSTAT RFB",
+      "bytes": 51625,
+      "linhas": 515,
+      "colunas": 10,
+      "periodo": "2002-2024"
+    },
+    "br_anual_balanco_nutrientes_faostat.csv": {
+      "nivel": "Brasil",
+      "frequencia": "anual",
+      "conteudo": "Balanço de N, P e K em lavouras: entradas, saídas e eficiência de uso",
+      "fonte": "FAOSTAT ESB",
+      "bytes": 26775,
+      "linhas": 189,
+      "colunas": 17,
+      "periodo": "1961-2023"
+    },
+    "br_mensal_anda.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Entregas ao mercado, produção nacional, importação e exportação de fertilizantes",
+      "fonte": "ANDA (PDFs e Ipeadata)",
+      "bytes": 27886,
+      "linhas": 344,
+      "colunas": 9,
+      "periodo": "1998-01 a 2026-08"
+    },
+    "br_mensal_precos_cambio.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Preços internacionais de fertilizantes, gás natural, soja e milho; câmbio nominal e real; relações de troca",
+      "fonte": "Banco Mundial e BCB",
+      "bytes": 97009,
+      "linhas": 802,
+      "colunas": 25,
+      "periodo": "1960-01 a 2026-10"
+    },
+    "br_mensal_comercio_comex.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Importação e exportação do capítulo 31 por posição (3101 a 3105)",
+      "fonte": "Comex Stat",
+      "bytes": 285149,
+      "linhas": 2668,
+      "colunas": 14,
+      "periodo": "1989-01 a 2026-10"
+    },
+    "br_mensal_importacao_ncm.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Importação por NCM de 8 dígitos",
+      "fonte": "Comex Stat",
+      "bytes": 1405157,
+      "linhas": 9687,
+      "colunas": 9,
+      "periodo": "1997-01 a 2026-10"
+    },
+    "br_mensal_importacao_materias_primas.csv": {
+      "nivel": "Brasil",
+      "frequencia": "mensal",
+      "conteudo": "Importação de enxofre, rocha fosfática, ácidos sulfúrico e fosfórico e amônia",
+      "fonte": "Comex Stat",
+      "bytes": 113746,
+      "linhas": 1787,
+      "colunas": 8,
+      "periodo": "1997-01 a 2026-10"
+    },
+    "br_anual_importacao_origem.csv": {
+      "nivel": "Brasil",
+      "frequencia": "anual",
+      "conteudo": "Importação por país de origem e posição, com participação",
+      "fonte": "Comex Stat",
+      "bytes": 411429,
+      "linhas": 6094,
+      "colunas": 9,
+      "periodo": "1989-2026"
+    },
+    "uf_anual_importacao_comex.csv": {
+      "nivel": "UF",
+      "frequencia": "anual",
+      "conteudo": "Importação por UF do produto e posição",
+      "fonte": "Comex Stat",
+      "bytes": 278649,
+      "linhas": 3355,
+      "colunas": 11,
+      "periodo": "1997-2026"
+    },
+    "uf_anual_entregas_nutriente_ids.csv": {
+      "nivel": "UF",
+      "frequencia": "anual",
+      "conteudo": "Entregas por nutriente e kg/ha, por UF, região e Brasil",
+      "fonte": "IBGE, IDS",
+      "bytes": 51320,
+      "linhas": 1116,
+      "colunas": 9,
+      "periodo": "1992-2014"
+    },
+    "uf_anual_area_culturas_pam.csv": {
+      "nivel": "UF",
+      "frequencia": "anual",
+      "conteudo": "Área plantada e colhida, quantidade e valor: total das lavouras e nove culturas",
+      "fonte": "IBGE, PAM",
+      "bytes": 863051,
+      "linhas": 14350,
+      "colunas": 11,
+      "periodo": "1974-2025"
+    },
+    "uf_censo_adubacao.csv": {
+      "nivel": "UF",
+      "frequencia": "2006 e 2017",
+      "conteudo": "Adoção de adubação e calagem e despesa com adubos e corretivos",
+      "fonte": "IBGE, Censo Agropecuário",
+      "bytes": 7874,
+      "linhas": 56,
+      "colunas": 27,
+      "periodo": "2006 e 2017"
+    },
+    "mun_censo_adubacao.csv": {
+      "nivel": "Município",
+      "frequencia": "2006 e 2017",
+      "conteudo": "Adoção de adubação e calagem e despesa com adubos e corretivos",
+      "fonte": "IBGE, Censo Agropecuário",
+      "bytes": 1098173,
+      "linhas": 11111,
+      "colunas": 25,
+      "periodo": "2006 e 2017"
+    }
+  }
+}

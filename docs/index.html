@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fertilizantes no Brasil: dados abertos</title>
+<meta name="description" content="Uso, produção, comércio exterior e preços de fertilizantes no Brasil, de 1961 a 2026, em séries consolidadas de fontes públicas (FAOSTAT, ANDA, IBGE, Comex Stat, Banco Mundial e BCB).">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+<header class="topo">
+  <div class="largura">
+    <p class="sobretitulo">Repositório de dados</p>
+    <h1>Fertilizantes no Brasil</h1>
+    <p class="lead">Uso, produção, comércio exterior e preços de fertilizantes, de 1961 a 2026. As séries vêm de sete fontes públicas e estão consolidadas em arquivos prontos para análise, com dicionário de colunas e os originais preservados.</p>
+    <nav class="nav" aria-label="Seções">
+      <a href="#panorama">Panorama</a>
+      <a href="#series">Séries consolidadas</a>
+      <a href="#originais">Arquivos originais</a>
+      <a href="#sobre">Sobre os dados</a>
+      <a id="link-repo" class="externo" href="#" hidden>Repositório no GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main class="largura">
+
+<section id="panorama" aria-labelledby="t-panorama">
+  <h2 id="t-panorama">Panorama</h2>
+  <p class="intro">O que os dados mostram, em sete gráficos. Passe o cursor ou use as setas do teclado para ler os valores; cada gráfico tem a tabela correspondente e o arquivo de origem.</p>
+
+  <div class="grupo">
+    <div class="grade destaque">
+      <div class="cartao" id="destaque">
+        <p class="heroi-rotulo" id="heroi-rotulo">Importação de NPK como proporção do uso agrícola</p>
+        <p class="heroi-valor" id="heroi-valor">–</p>
+        <p class="nota" id="heroi-nota">Carregando os dados.</p>
+        <div class="medidores" id="medidores" role="list" aria-label="Dependência de importação por nutriente"></div>
+      </div>
+      <div class="tiles" id="tiles"></div>
+    </div>
+  </div>
+
+  <div class="grupo">
+    <h3>Uso e dependência externa</h3>
+    <div class="grade duas">
+      <figure class="cartao grafico" id="g-uso">
+        <figcaption>
+          <h3>O uso de fertilizantes cresceu mais de 80 vezes desde 1961</h3>
+          <p class="sub">Uso agrícola por nutriente, em milhões de toneladas · FAOSTAT</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/br_anual_nutrientes_faostat.csv" download>Baixar CSV</a></div>
+      </figure>
+      <figure class="cartao grafico" id="g-dep">
+        <figcaption>
+          <h3>Nitrogênio e potássio vêm quase todos de fora</h3>
+          <p class="sub">Importação dividida pelo uso agrícola, em % · FAOSTAT</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/br_anual_nutrientes_faostat.csv" download>Baixar CSV</a></div>
+      </figure>
+    </div>
+  </div>
+
+  <div class="grupo">
+    <h3>Mercado e preços</h3>
+    <div class="grade duas">
+      <figure class="cartao grafico" id="g-anda">
+        <figcaption>
+          <h3>A importação acompanha as entregas; a produção nacional não</h3>
+          <p class="sub">Soma móvel de 12 meses, em milhões de toneladas de produto · ANDA</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <p class="nota">Em 2026, parte da produção nacional (ureia e KCl) não foi captada, segundo a própria ANDA.</p>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/br_mensal_anda.csv" download>Baixar CSV</a></div>
+      </figure>
+      <figure class="cartao grafico" id="g-precos">
+        <figcaption>
+          <h3>Preços internacionais de ureia, DAP e cloreto de potássio</h3>
+          <p class="sub">Preço mensal, em US$ por tonelada · Banco Mundial, Pink Sheet</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/br_mensal_precos_cambio.csv" download>Baixar CSV</a></div>
+      </figure>
+    </div>
+  </div>
+
+  <div class="grupo">
+    <h3>Origem das importações</h3>
+    <div class="grade">
+      <figure class="cartao grafico" id="g-origem">
+        <figcaption>
+          <h3>Rússia, China e Canadá fornecem mais da metade</h3>
+          <p class="sub">Importação de fertilizantes (capítulo 31 da NCM) por país de origem, em milhões de toneladas de produto · Comex Stat</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/br_anual_importacao_origem.csv" download>Baixar CSV</a></div>
+      </figure>
+    </div>
+  </div>
+
+  <div class="grupo">
+    <h3>Unidades da federação</h3>
+    <div class="grade duas">
+      <figure class="cartao grafico" id="g-uf">
+        <figcaption>
+          <h3>Importação por UF de destino</h3>
+          <p class="sub" id="g-uf-sub">Capítulo 31, em milhões de toneladas de produto · Comex Stat</p>
+        </figcaption>
+        <div class="plot"></div>
+        <p class="nota">É a UF declarada na importação, não a UF onde o adubo é aplicado.</p>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/uf_anual_importacao_comex.csv" download>Baixar CSV</a></div>
+      </figure>
+      <figure class="cartao grafico" id="g-censo">
+        <figcaption>
+          <h3>A adubação avançou em quase todas as UFs entre os Censos</h3>
+          <p class="sub">Estabelecimentos agropecuários que adubaram no ano, em % · IBGE, Censo Agropecuário</p>
+        </figcaption>
+        <div class="legenda"></div>
+        <div class="plot"></div>
+        <div class="rodape-fig"><button class="botao alternar" type="button">Ver tabela</button><a href="dados/uf_censo_adubacao.csv" download>Baixar CSV</a></div>
+      </figure>
+    </div>
+  </div>
+</section>
+
+<section id="series" aria-labelledby="t-series">
+  <h2 id="t-series">Séries consolidadas</h2>
+  <p class="intro">Dezessete arquivos CSV (UTF-8, vírgula, ponto decimal) gerados por <code>scripts/consolidar.py</code>. Os três painéis juntam várias fontes na mesma tabela; os demais mantêm uma fonte por arquivo. Abra "Colunas" para ver descrição, unidade e fonte de cada variável.</p>
+  <div class="arquivos" id="lista-series"><p class="erro">Carregando a lista de arquivos.</p></div>
+  <p class="nota"><a href="dados/DICIONARIO.csv" download>Baixar o dicionário completo (CSV)</a> · <a href="dados/metadados.json" download>metadados.json</a></p>
+</section>
+
+<section id="originais" aria-labelledby="t-originais">
+  <h2 id="t-originais">Arquivos originais</h2>
+  <p class="intro">Os arquivos como vieram de cada fonte (<code>brutos/</code>) e os recortes derivados (<code>tratados/</code>), registrados no <code>MANIFESTO.csv</code> com origem, data de download e SHA-256.</p>
+  <div class="filtros">
+    <label>Fonte <select id="f-fonte"><option value="">Todas</option></select></label>
+    <label>Buscar <input id="f-busca" type="search" placeholder="nome ou descrição" autocomplete="off"></label>
+    <span class="contagem" id="f-contagem" aria-live="polite"></span>
+  </div>
+  <div class="rolagem alta" tabindex="0" role="region" aria-label="Tabela de arquivos originais">
+    <table>
+      <thead><tr><th>Arquivo</th><th>Fonte</th><th>Descrição</th><th class="n">Tamanho</th><th>Download</th></tr></thead>
+      <tbody id="lista-originais"><tr><td colspan="5">Carregando o manifesto.</td></tr></tbody>
+    </table>
+  </div>
+  <p class="nota"><a href="dados/MANIFESTO.csv" download>Baixar o manifesto (CSV)</a></p>
+</section>
+
+<section id="sobre" aria-labelledby="t-sobre">
+  <h2 id="t-sobre">Sobre os dados</h2>
+  <div class="sobre">
+    <div class="cartao">
+      <h3>Fontes</h3>
+      <ul>
+        <li><strong>FAOSTAT</strong>: fertilizantes por nutriente e por produto, balanço de nutrientes, esterco e matriz de comércio.</li>
+        <li><strong>ANDA</strong>: entregas, produção, importação e exportação mensais (PDFs "Principais Indicadores") e, até 2012, as mesmas séries via Ipeadata.</li>
+        <li><strong>IBGE</strong>: Indicadores de Desenvolvimento Sustentável, Censos Agropecuários de 2006 e 2017, PAM, PPM e LSPA, pelo SIDRA.</li>
+        <li><strong>Comex Stat</strong> (MDIC): importação e exportação por NCM, país e UF, mês a mês.</li>
+        <li><strong>Banco Mundial</strong>: preços internacionais de commodities (Pink Sheet).</li>
+        <li><strong>Banco Central</strong>: taxas de câmbio nominal e real (SGS).</li>
+      </ul>
+    </div>
+    <div class="cartao">
+      <h3>Cuidados ao usar</h3>
+      <ul>
+        <li><strong>Unidades.</strong> FAOSTAT e IDS medem nutriente (N, P2O5, K2O); ANDA e Comex Stat medem produto. As séries não se somam.</li>
+        <li><strong>Uso agrícola da FAOSTAT.</strong> De 2002 em diante é imputado pela FAO, não informado pelo país.</li>
+        <li><strong>Nível estadual.</strong> A série pública de entregas por nutriente e UF vai só de 2007 a 2014.</li>
+        <li><strong>Ano parcial.</strong> 2026 vai até agosto na ANDA e até outubro no Comex Stat.</li>
+        <li><strong>Preços.</strong> O KCl passa a ser cotado CFR Brasil em jan/2020 e a ureia, FOB Oriente Médio em mar/2022.</li>
+      </ul>
+    </div>
+    <div class="cartao">
+      <h3>Como reproduzir</h3>
+      <p>Cada execução do script de download cria uma pasta datada, sem apagar as anteriores, para que a versão usada em cada análise possa ser citada.</p>
+      <pre>python scripts/baixar_bases.py
+python scripts/consolidar.py
+python scripts/validar_consolidados.py</pre>
+    </div>
+    <div class="cartao">
+      <h3>Como citar</h3>
+      <p>Cite a fonte original de cada série (está na coluna "fonte" do dicionário) e a versão deste repositório, indicada pela data de download no manifesto. Cada base segue os termos de uso da instituição que a publica.</p>
+      <p class="nota" id="versao"></p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer class="pe">
+  <div class="largura" id="pe-texto">Dados de fontes públicas, consolidados por script. Nada é interpolado: onde a fonte não tem o dado, a célula fica vazia.</div>
+</footer>
+
+<script src="assets/config.js"></script>
+<script src="assets/site.js"></script>
+</body>
+</html>

@@ -1,0 +1,864 @@
+tabela,dimensao,codigo,nome
+74,Ano,1974,1974
+74,Ano,1975,1975
+74,Ano,1976,1976
+74,Ano,1977,1977
+74,Ano,1978,1978
+74,Ano,1979,1979
+74,Ano,1980,1980
+74,Ano,1981,1981
+74,Ano,1982,1982
+74,Ano,1983,1983
+74,Ano,1984,1984
+74,Ano,1985,1985
+74,Ano,1986,1986
+74,Ano,1987,1987
+74,Ano,1988,1988
+74,Ano,1989,1989
+74,Ano,1990,1990
+74,Ano,1991,1991
+74,Ano,1992,1992
+74,Ano,1993,1993
+74,Ano,1994,1994
+74,Ano,1995,1995
+74,Ano,1996,1996
+74,Ano,1997,1997
+74,Ano,1998,1998
+74,Ano,1999,1999
+74,Ano,2000,2000
+74,Ano,2001,2001
+74,Ano,2002,2002
+74,Ano,2003,2003
+74,Ano,2004,2004
+74,Ano,2005,2005
+74,Ano,2006,2006
+74,Ano,2007,2007
+74,Ano,2008,2008
+74,Ano,2009,2009
+74,Ano,2010,2010
+74,Ano,2011,2011
+74,Ano,2012,2012
+74,Ano,2013,2013
+74,Ano,2014,2014
+74,Ano,2015,2015
+74,Ano,2016,2016
+74,Ano,2017,2017
+74,Ano,2018,2018
+74,Ano,2019,2019
+74,Ano,2020,2020
+74,Ano,2021,2021
+74,Ano,2022,2022
+74,Ano,2023,2023
+74,Ano,2024,2024
+74,Ano,2025,2025
+74,Tipo de produto de origem animal,0,Total
+74,Tipo de produto de origem animal,2682,Leite
+74,Tipo de produto de origem animal,2683,Casulos do bicho-da-seda
+74,Tipo de produto de origem animal,2684,Lã
+74,Tipo de produto de origem animal,2685,Ovos de galinha
+74,Tipo de produto de origem animal,2686,Ovos de codorna
+74,Tipo de produto de origem animal,2687,Mel de abelha
+74,Variável,106,Produção de origem animal
+74,Variável,215,Valor da produção
+768,Ano,1992,1992
+768,Ano,1993,1993
+768,Ano,1994,1994
+768,Ano,1995,1995
+768,Ano,1996,1996
+768,Ano,1997,1997
+768,Ano,1998,1998
+768,Ano,1999,1999
+768,Ano,2000,2000
+768,Ano,2001,2001
+768,Ano,2002,2002
+768,Ano,2003,2003
+768,Ano,2004,2004
+768,Ano,2005,2005
+768,Ano,2006,2006
+768,Ano,2007,2007
+768,Ano,2008,2008
+768,Ano,2009,2009
+768,Ano,2010,2010
+768,Ano,2011,2011
+768,Ano,2012,2012
+768,Ano,2013,2013
+768,Ano,2014,2014
+768,Tipo de nutriente,119127,Total
+768,Tipo de nutriente,119128,N - nitrogênio
+768,Tipo de nutriente,119129,P2O5 - fósforo
+768,Tipo de nutriente,119130,K2O - potássio
+768,Variável,2395,Quantidade comercializada de fertilizantes por área plantada
+769,Ano,2007,2007
+769,Ano,2008,2008
+769,Ano,2009,2009
+769,Ano,2010,2010
+769,Ano,2011,2011
+769,Ano,2012,2012
+769,Ano,2013,2013
+769,Ano,2014,2014
+769,Variável,2396,Área plantada das principais culturas
+769,Variável,2397,Quantidade de fertilizantes entregue ao consumidor final
+770,Ano,2007,2007
+770,Ano,2008,2008
+770,Ano,2009,2009
+770,Ano,2010,2010
+770,Ano,2011,2011
+770,Ano,2012,2012
+770,Ano,2013,2013
+770,Ano,2014,2014
+770,Tipo de nutriente,119127,Total
+770,Tipo de nutriente,119128,N - nitrogênio
+770,Tipo de nutriente,119129,P2O5 - fósforo
+770,Tipo de nutriente,119130,K2O - potássio
+770,Variável,2397,Quantidade de fertilizantes entregue ao consumidor final
+770,Variável,2398,Utilização de fertilizantes por unidade de área
+825,Ano,2006,2006
+825,Principal mês da colheita,0,Total
+825,Principal mês do plantio,0,Total
+825,Produtos da lavoura temporária,111671,"Abóbora, moranga, jerimum"
+825,Produtos da lavoura temporária,111672,Algodão herbáceo
+825,Produtos da lavoura temporária,111673,Aveia branca em grão
+825,Produtos da lavoura temporária,111674,Colza (canola)
+825,Produtos da lavoura temporária,111675,Feijão preto em grão
+825,Produtos da lavoura temporária,111676,Feijão de cor em grão
+825,Produtos da lavoura temporária,111677,Feijão fradinho em grão
+825,Produtos da lavoura temporária,111678,Fumo em folha seca
+825,Produtos da lavoura temporária,111679,Gergelim (semente)
+825,Produtos da lavoura temporária,111680,Tomate rasteiro (industrial)
+825,Produtos da lavoura temporária,111681,Trigo preto em grão
+825,Produtos da lavoura temporária,111682,Triticale em grão
+825,Produtos da lavoura temporária,111683,Forrageiras para corte
+825,Produtos da lavoura temporária,111684,Sementes de algodão (produzidas para plantio)
+825,Produtos da lavoura temporária,111685,Fava em grão
+825,Produtos da lavoura temporária,111686,Sementes de arroz (produzidas para plantio)
+825,Produtos da lavoura temporária,111687,Sementes de feijão (produzidas para plantio)
+825,Produtos da lavoura temporária,111688,Sementes de milho (produzidas para plantio)
+825,Produtos da lavoura temporária,111689,Sementes de soja (produzidas para plantio)
+825,Produtos da lavoura temporária,111690,Sementes de trigo (produzidas para plantio)
+825,Produtos da lavoura temporária,111691,Sementes de forrageiras (produzidas para plantio)
+825,Produtos da lavoura temporária,111692,Sementes de batata-inglesa (produzidas para plantio)
+825,Produtos da lavoura temporária,111693,Toletes de cana-de-açúcar (produzidas para plantio)
+825,Produtos da lavoura temporária,111694,Sementes e outras formas de propagação de outros produtos (produzidas para plantio)
+825,Produtos da lavoura temporária,113869,Total
+825,Produtos da lavoura temporária,4844,Abacaxi
+825,Produtos da lavoura temporária,4847,Alho
+825,Produtos da lavoura temporária,4851,Arroz em casca
+825,Produtos da lavoura temporária,4857,Cana-de-açúcar
+825,Produtos da lavoura temporária,4860,Cebola
+825,Produtos da lavoura temporária,4861,Centeio em grão
+825,Produtos da lavoura temporária,4862,Cevada em casca
+825,Produtos da lavoura temporária,4864,Ervilha em grão
+825,Produtos da lavoura temporária,4869,Feijão verde
+825,Produtos da lavoura temporária,4872,Girassol (semente)
+825,Produtos da lavoura temporária,4876,Juta (fibra)
+825,Produtos da lavoura temporária,4879,Linho (fibra)
+825,Produtos da lavoura temporária,4882,Malva (fibra)
+825,Produtos da lavoura temporária,4884,Mamona
+825,Produtos da lavoura temporária,4885,"Mandioca (aipim, macaxeira)"
+825,Produtos da lavoura temporária,4886,Melancia
+825,Produtos da lavoura temporária,4887,Melão
+825,Produtos da lavoura temporária,4888,Milho em grão
+825,Produtos da lavoura temporária,4895,Rami (fibra)
+825,Produtos da lavoura temporária,4896,Soja em grão
+825,Produtos da lavoura temporária,4897,Sorgo em grão
+825,Produtos da lavoura temporária,4898,Sorgo vassoura
+825,Produtos da lavoura temporária,4901,Trigo em grão
+825,Produtos da lavoura temporária,4906,Cana forrageira
+825,Produtos da lavoura temporária,4907,Milho forrageiro
+825,Produtos da lavoura temporária,4910,Sorgo forrageiro
+825,Produtos da lavoura temporária,96608,Amendoim em casca
+825,Produtos da lavoura temporária,96609,Batata-inglesa
+825,Uso de adubação,0,Total
+825,Uso de adubação,111613,Química
+825,Uso de adubação,111614,Orgânica
+825,Uso de adubação,111615,Química e orgânica
+825,Uso de adubação,111616,Não utilizou
+825,Uso de agrotóxicos,0,Total
+825,Uso de irrigação,0,Total
+825,Variável,183,Número de estabelecimentos agropecuários
+825,Variável,214,Quantidade produzida
+825,Variável,215,Valor da produção
+825,Variável,216,Área colhida
+833,Ano,2006,2006
+833,Condição do produtor em relação às terras,0,Total
+833,Grupos de atividade econômica,111519,Produção de lavouras temporárias
+833,Grupos de atividade econômica,111520,Horticultura e floricultura
+833,Grupos de atividade econômica,111521,Produção de lavouras permanentes
+833,Grupos de atividade econômica,111522,Produção de sementes e mudas certificadas
+833,Grupos de atividade econômica,111523,Pecuária e criação de outros animais
+833,Grupos de atividade econômica,111524,Produção florestal - florestas plantadas
+833,Grupos de atividade econômica,111525,Produção florestal - florestas nativas
+833,Grupos de atividade econômica,111526,Aquicultura
+833,Grupos de atividade econômica,113601,Total
+833,Grupos de atividade econômica,114349,Pesca
+833,Grupos de área total,0,Total
+833,Tipo de despesa,111957,Arrendamento de terras
+833,Tipo de despesa,111958,Serviços de empreitada
+833,Tipo de despesa,111959,Salários pagos em dinheiro ou produtos para família
+833,Tipo de despesa,111960,Adubos
+833,Tipo de despesa,111961,Corretivos do solo
+833,Tipo de despesa,111962,Sementes e mudas
+833,Tipo de despesa,111963,Sacarias e embalagens
+833,Tipo de despesa,111966,Agrotóxicos
+833,Tipo de despesa,111967,Medicamentos para animais
+833,Tipo de despesa,111968,Sal e rações (industrializados ou não-industrializados)
+833,Tipo de despesa,111969,Compra de matéria-prima para agroindústria
+833,Tipo de despesa,111971,Armazenamento da produção
+833,Tipo de despesa,111972,Transporte da produção
+833,Tipo de despesa,111973,"Impostos, taxas"
+833,Tipo de despesa,111974,Juros e despesas bancárias
+833,Tipo de despesa,111975,Aluguel de máquina
+833,Tipo de despesa,111976,Outras despesas
+833,Tipo de despesa,113946,Total
+833,Tipo de despesa,116229,Salários pagos em dinheiro ou produtos para empregados
+833,Tipo de despesa,116712,Compra de animais
+833,Tipo de despesa,118125,Combustíveis
+833,Tipo de despesa,5497,Energia elétrica
+833,Variável,1996,Valor das despesas realizadas pelos estabelecimentos agropecuários
+833,Variável,2,Número de estabelecimentos agropecuários que realizaram despesas
+864,Ano,2006,2006
+864,Condição do produtor em relação às terras,0,Total
+864,Nível de instrução da pessoa que dirige o estabelecimento,0,Total
+864,Orientação técnica,0,Total
+864,Origem da orientação técnica recebida,0,Total
+864,Tempo em que o produtor dirige o estabelecimento,0,Total
+864,Uso de adubação,0,Total
+864,Uso de adubação,112008,Usa - não precisou usar em 2006
+864,Uso de adubação,112009,Não usa
+864,Uso de adubação,112769,Em lavouras
+864,Uso de adubação,112781,Em pastagens
+864,Uso de adubação,114541,Usa
+864,Uso de adubação,114542,Em lavouras e pastagens
+864,Variável,183,Número de estabelecimentos agropecuários
+1249,Ano,2006,2006
+1249,Classe de idade do produtor,0,Total
+1249,Local onde foi feita a adubação,0,Total
+1249,Local onde foi feita a adubação,113238,Em lavouras
+1249,Local onde foi feita a adubação,113239,Em pastagens
+1249,Local onde foi feita a adubação,113240,Em lavouras e pastagens
+1249,Local onde foi feita a adubação,114539,Usam adubação
+1249,Local onde foi feita a adubação,114540,Não usam adubação
+1249,Produtos utilizados na adubação,0,Total
+1249,Produtos utilizados na adubação,113227,Usam
+1249,Produtos utilizados na adubação,113228,Adubo químico nitrogenado
+1249,Produtos utilizados na adubação,113229,Adubo químico não-nitrogenado
+1249,Produtos utilizados na adubação,113230,Esterco e/ou urina animal
+1249,Produtos utilizados na adubação,113231,Adubação verde
+1249,Produtos utilizados na adubação,113232,Vinhaça
+1249,Produtos utilizados na adubação,113233,Húmus de minhoca
+1249,Produtos utilizados na adubação,113234,Biofertilizantes
+1249,Produtos utilizados na adubação,113235,Inoculantes (fixadores de nitrogênio)
+1249,Produtos utilizados na adubação,113236,Composto orgânico
+1249,Produtos utilizados na adubação,113237,Outros
+1249,Produtos utilizados na adubação,113571,Não usam
+1249,Produtos utilizados na adubação,114625,Usam - não precisaram usar em 2006
+1249,Utilização das terras,110087,Total
+1249,Variável,183,Número de estabelecimentos agropecuários
+1249,Variável,184,Área dos estabelecimentos agropecuários
+3939,Ano,1974,1974
+3939,Ano,1975,1975
+3939,Ano,1976,1976
+3939,Ano,1977,1977
+3939,Ano,1978,1978
+3939,Ano,1979,1979
+3939,Ano,1980,1980
+3939,Ano,1981,1981
+3939,Ano,1982,1982
+3939,Ano,1983,1983
+3939,Ano,1984,1984
+3939,Ano,1985,1985
+3939,Ano,1986,1986
+3939,Ano,1987,1987
+3939,Ano,1988,1988
+3939,Ano,1989,1989
+3939,Ano,1990,1990
+3939,Ano,1991,1991
+3939,Ano,1992,1992
+3939,Ano,1993,1993
+3939,Ano,1994,1994
+3939,Ano,1995,1995
+3939,Ano,1996,1996
+3939,Ano,1997,1997
+3939,Ano,1998,1998
+3939,Ano,1999,1999
+3939,Ano,2000,2000
+3939,Ano,2001,2001
+3939,Ano,2002,2002
+3939,Ano,2003,2003
+3939,Ano,2004,2004
+3939,Ano,2005,2005
+3939,Ano,2006,2006
+3939,Ano,2007,2007
+3939,Ano,2008,2008
+3939,Ano,2009,2009
+3939,Ano,2010,2010
+3939,Ano,2011,2011
+3939,Ano,2012,2012
+3939,Ano,2013,2013
+3939,Ano,2014,2014
+3939,Ano,2015,2015
+3939,Ano,2016,2016
+3939,Ano,2017,2017
+3939,Ano,2018,2018
+3939,Ano,2019,2019
+3939,Ano,2020,2020
+3939,Ano,2021,2021
+3939,Ano,2022,2022
+3939,Ano,2023,2023
+3939,Ano,2024,2024
+3939,Ano,2025,2025
+3939,Tipo de rebanho,2670,Bovino
+3939,Tipo de rebanho,2672,Equino
+3939,Tipo de rebanho,2675,Bubalino
+3939,Tipo de rebanho,2677,Ovino
+3939,Tipo de rebanho,2680,Codornas
+3939,Tipo de rebanho,2681,Caprino
+3939,Tipo de rebanho,32793,Galináceos - galinhas
+3939,Tipo de rebanho,32794,Suíno - total
+3939,Tipo de rebanho,32795,Suíno - matrizes de suínos
+3939,Tipo de rebanho,32796,Galináceos - total
+3939,Variável,105,Efetivo dos rebanhos
+5457,Ano,1974,1974
+5457,Ano,1975,1975
+5457,Ano,1976,1976
+5457,Ano,1977,1977
+5457,Ano,1978,1978
+5457,Ano,1979,1979
+5457,Ano,1980,1980
+5457,Ano,1981,1981
+5457,Ano,1982,1982
+5457,Ano,1983,1983
+5457,Ano,1984,1984
+5457,Ano,1985,1985
+5457,Ano,1986,1986
+5457,Ano,1987,1987
+5457,Ano,1988,1988
+5457,Ano,1989,1989
+5457,Ano,1990,1990
+5457,Ano,1991,1991
+5457,Ano,1992,1992
+5457,Ano,1993,1993
+5457,Ano,1994,1994
+5457,Ano,1995,1995
+5457,Ano,1996,1996
+5457,Ano,1997,1997
+5457,Ano,1998,1998
+5457,Ano,1999,1999
+5457,Ano,2000,2000
+5457,Ano,2001,2001
+5457,Ano,2002,2002
+5457,Ano,2003,2003
+5457,Ano,2004,2004
+5457,Ano,2005,2005
+5457,Ano,2006,2006
+5457,Ano,2007,2007
+5457,Ano,2008,2008
+5457,Ano,2009,2009
+5457,Ano,2010,2010
+5457,Ano,2011,2011
+5457,Ano,2012,2012
+5457,Ano,2013,2013
+5457,Ano,2014,2014
+5457,Ano,2015,2015
+5457,Ano,2016,2016
+5457,Ano,2017,2017
+5457,Ano,2018,2018
+5457,Ano,2019,2019
+5457,Ano,2020,2020
+5457,Ano,2021,2021
+5457,Ano,2022,2022
+5457,Ano,2023,2023
+5457,Ano,2024,2024
+5457,Ano,2025,2025
+5457,Produto das lavouras temporárias e permanentes,0,Total
+5457,Produto das lavouras temporárias e permanentes,40092,Abacaxi*
+5457,Produto das lavouras temporárias e permanentes,40099,Algodão herbáceo (em caroço)
+5457,Produto das lavouras temporárias e permanentes,40100,Alho
+5457,Produto das lavouras temporárias e permanentes,40101,Amendoim (em casca)
+5457,Produto das lavouras temporárias e permanentes,40102,Arroz (em casca)
+5457,Produto das lavouras temporárias e permanentes,40103,Aveia (em grão)
+5457,Produto das lavouras temporárias e permanentes,40104,Batata-doce
+5457,Produto das lavouras temporárias e permanentes,40105,Batata-inglesa
+5457,Produto das lavouras temporárias e permanentes,40106,Cana-de-açúcar
+5457,Produto das lavouras temporárias e permanentes,40107,Cebola
+5457,Produto das lavouras temporárias e permanentes,40108,Centeio (em grão)
+5457,Produto das lavouras temporárias e permanentes,40109,Cevada (em grão)
+5457,Produto das lavouras temporárias e permanentes,40110,Ervilha (em grão)
+5457,Produto das lavouras temporárias e permanentes,40111,Fava (em grão)
+5457,Produto das lavouras temporárias e permanentes,40112,Feijão (em grão)
+5457,Produto das lavouras temporárias e permanentes,40113,Fumo (em folha)
+5457,Produto das lavouras temporárias e permanentes,40114,Girassol (em grão)
+5457,Produto das lavouras temporárias e permanentes,40115,Juta (fibra)
+5457,Produto das lavouras temporárias e permanentes,40116,Linho (semente)
+5457,Produto das lavouras temporárias e permanentes,40117,Malva (fibra)
+5457,Produto das lavouras temporárias e permanentes,40118,Mamona (baga)
+5457,Produto das lavouras temporárias e permanentes,40119,Mandioca
+5457,Produto das lavouras temporárias e permanentes,40120,Melancia
+5457,Produto das lavouras temporárias e permanentes,40121,Melão
+5457,Produto das lavouras temporárias e permanentes,40122,Milho (em grão)
+5457,Produto das lavouras temporárias e permanentes,40123,Rami (fibra)
+5457,Produto das lavouras temporárias e permanentes,40124,Soja (em grão)
+5457,Produto das lavouras temporárias e permanentes,40125,Sorgo (em grão)
+5457,Produto das lavouras temporárias e permanentes,40126,Tomate
+5457,Produto das lavouras temporárias e permanentes,40127,Trigo (em grão)
+5457,Produto das lavouras temporárias e permanentes,40128,Triticale (em grão)
+5457,Produto das lavouras temporárias e permanentes,40129,Abacate
+5457,Produto das lavouras temporárias e permanentes,40130,Algodão arbóreo (em caroço)
+5457,Produto das lavouras temporárias e permanentes,40131,Azeitona
+5457,Produto das lavouras temporárias e permanentes,40136,Banana (cacho)
+5457,Produto das lavouras temporárias e permanentes,40137,Borracha (látex coagulado)
+5457,Produto das lavouras temporárias e permanentes,40138,Cacau (em amêndoa)
+5457,Produto das lavouras temporárias e permanentes,40139,Café (em grão) Total
+5457,Produto das lavouras temporárias e permanentes,40140,Café (em grão) Arábica
+5457,Produto das lavouras temporárias e permanentes,40141,Café (em grão) Canephora
+5457,Produto das lavouras temporárias e permanentes,40142,Caqui
+5457,Produto das lavouras temporárias e permanentes,40143,Castanha de caju
+5457,Produto das lavouras temporárias e permanentes,40144,Chá-da-índia (folha verde)
+5457,Produto das lavouras temporárias e permanentes,40145,Coco-da-baía*
+5457,Produto das lavouras temporárias e permanentes,40146,Dendê (cacho de coco)
+5457,Produto das lavouras temporárias e permanentes,40147,Erva-mate (folha verde)
+5457,Produto das lavouras temporárias e permanentes,40148,Figo
+5457,Produto das lavouras temporárias e permanentes,40149,Goiaba
+5457,Produto das lavouras temporárias e permanentes,40150,Guaraná (semente)
+5457,Produto das lavouras temporárias e permanentes,40151,Laranja
+5457,Produto das lavouras temporárias e permanentes,40152,Limão
+5457,Produto das lavouras temporárias e permanentes,40260,Maçã
+5457,Produto das lavouras temporárias e permanentes,40261,Mamão
+5457,Produto das lavouras temporárias e permanentes,40262,Manga
+5457,Produto das lavouras temporárias e permanentes,40263,Maracujá
+5457,Produto das lavouras temporárias e permanentes,40264,Marmelo
+5457,Produto das lavouras temporárias e permanentes,40265,Noz (fruto seco)
+5457,Produto das lavouras temporárias e permanentes,40266,Palmito
+5457,Produto das lavouras temporárias e permanentes,40267,Pera
+5457,Produto das lavouras temporárias e permanentes,40268,Pêssego
+5457,Produto das lavouras temporárias e permanentes,40269,Pimenta-do-reino
+5457,Produto das lavouras temporárias e permanentes,40270,Sisal ou agave (fibra)
+5457,Produto das lavouras temporárias e permanentes,40271,Tangerina
+5457,Produto das lavouras temporárias e permanentes,40272,Tungue (fruto seco)
+5457,Produto das lavouras temporárias e permanentes,40273,Urucum (semente)
+5457,Produto das lavouras temporárias e permanentes,40274,Uva
+5457,Produto das lavouras temporárias e permanentes,40329,Alfafa fenada
+5457,Produto das lavouras temporárias e permanentes,40330,Caju
+5457,Produto das lavouras temporárias e permanentes,40331,Cana para forragem
+5457,Produto das lavouras temporárias e permanentes,40468,Borracha (látex líquido)
+5457,Produto das lavouras temporárias e permanentes,45982,Açaí
+5457,Produto das lavouras temporárias e permanentes,83388,Abóbora
+5457,Produto das lavouras temporárias e permanentes,83389,Alface
+5457,Produto das lavouras temporárias e permanentes,83390,Canola
+5457,Produto das lavouras temporárias e permanentes,83391,Cenoura
+5457,Produto das lavouras temporárias e permanentes,83392,Chuchu
+5457,Produto das lavouras temporárias e permanentes,83393,Inhame
+5457,Produto das lavouras temporárias e permanentes,83394,Milho verde
+5457,Produto das lavouras temporárias e permanentes,83395,Gergelim
+5457,Produto das lavouras temporárias e permanentes,83396,Morango
+5457,Produto das lavouras temporárias e permanentes,83397,Pimentão
+5457,Produto das lavouras temporárias e permanentes,83398,Repolho
+5457,Produto das lavouras temporárias e permanentes,83399,Acerola
+5457,Produto das lavouras temporárias e permanentes,83400,Cupuaçu
+5457,Produto das lavouras temporárias e permanentes,83401,Graviola
+5457,Variável,214,Quantidade produzida
+5457,Variável,215,Valor da produção
+5457,Variável,216,Área colhida
+5457,Variável,8331,Área plantada ou destinada à colheita
+6588,Mês,200609,setembro 2006
+6588,Mês,200610,outubro 2006
+6588,Mês,200611,novembro 2006
+6588,Mês,200612,dezembro 2006
+6588,Mês,200701,janeiro 2007
+6588,Mês,200702,fevereiro 2007
+6588,Mês,200703,março 2007
+6588,Mês,200704,abril 2007
+6588,Mês,200705,maio 2007
+6588,Mês,200706,junho 2007
+6588,Mês,200707,julho 2007
+6588,Mês,200708,agosto 2007
+6588,Mês,200709,setembro 2007
+6588,Mês,200710,outubro 2007
+6588,Mês,200711,novembro 2007
+6588,Mês,200712,dezembro 2007
+6588,Mês,200801,janeiro 2008
+6588,Mês,200802,fevereiro 2008
+6588,Mês,200803,março 2008
+6588,Mês,200804,abril 2008
+6588,Mês,200805,maio 2008
+6588,Mês,200806,junho 2008
+6588,Mês,200807,julho 2008
+6588,Mês,200808,agosto 2008
+6588,Mês,200809,setembro 2008
+6588,Mês,200810,outubro 2008
+6588,Mês,200811,novembro 2008
+6588,Mês,200812,dezembro 2008
+6588,Mês,200901,janeiro 2009
+6588,Mês,200902,fevereiro 2009
+6588,Mês,200903,março 2009
+6588,Mês,200904,abril 2009
+6588,Mês,200905,maio 2009
+6588,Mês,200906,junho 2009
+6588,Mês,200907,julho 2009
+6588,Mês,200908,agosto 2009
+6588,Mês,200909,setembro 2009
+6588,Mês,200910,outubro 2009
+6588,Mês,200911,novembro 2009
+6588,Mês,200912,dezembro 2009
+6588,Mês,201001,janeiro 2010
+6588,Mês,201002,fevereiro 2010
+6588,Mês,201003,março 2010
+6588,Mês,201004,abril 2010
+6588,Mês,201005,maio 2010
+6588,Mês,201006,junho 2010
+6588,Mês,201007,julho 2010
+6588,Mês,201008,agosto 2010
+6588,Mês,201009,setembro 2010
+6588,Mês,201010,outubro 2010
+6588,Mês,201011,novembro 2010
+6588,Mês,201012,dezembro 2010
+6588,Mês,201101,janeiro 2011
+6588,Mês,201102,fevereiro 2011
+6588,Mês,201103,março 2011
+6588,Mês,201104,abril 2011
+6588,Mês,201105,maio 2011
+6588,Mês,201106,junho 2011
+6588,Mês,201107,julho 2011
+6588,Mês,201108,agosto 2011
+6588,Mês,201109,setembro 2011
+6588,Mês,201110,outubro 2011
+6588,Mês,201111,novembro 2011
+6588,Mês,201112,dezembro 2011
+6588,Mês,201201,janeiro 2012
+6588,Mês,201202,fevereiro 2012
+6588,Mês,201203,março 2012
+6588,Mês,201204,abril 2012
+6588,Mês,201205,maio 2012
+6588,Mês,201206,junho 2012
+6588,Mês,201207,julho 2012
+6588,Mês,201208,agosto 2012
+6588,Mês,201209,setembro 2012
+6588,Mês,201210,outubro 2012
+6588,Mês,201211,novembro 2012
+6588,Mês,201212,dezembro 2012
+6588,Mês,201301,janeiro 2013
+6588,Mês,201302,fevereiro 2013
+6588,Mês,201303,março 2013
+6588,Mês,201304,abril 2013
+6588,Mês,201305,maio 2013
+6588,Mês,201306,junho 2013
+6588,Mês,201307,julho 2013
+6588,Mês,201308,agosto 2013
+6588,Mês,201309,setembro 2013
+6588,Mês,201310,outubro 2013
+6588,Mês,201311,novembro 2013
+6588,Mês,201312,dezembro 2013
+6588,Mês,201401,janeiro 2014
+6588,Mês,201402,fevereiro 2014
+6588,Mês,201403,março 2014
+6588,Mês,201404,abril 2014
+6588,Mês,201405,maio 2014
+6588,Mês,201406,junho 2014
+6588,Mês,201407,julho 2014
+6588,Mês,201408,agosto 2014
+6588,Mês,201409,setembro 2014
+6588,Mês,201410,outubro 2014
+6588,Mês,201411,novembro 2014
+6588,Mês,201412,dezembro 2014
+6588,Mês,201501,janeiro 2015
+6588,Mês,201502,fevereiro 2015
+6588,Mês,201503,março 2015
+6588,Mês,201504,abril 2015
+6588,Mês,201505,maio 2015
+6588,Mês,201506,junho 2015
+6588,Mês,201507,julho 2015
+6588,Mês,201508,agosto 2015
+6588,Mês,201509,setembro 2015
+6588,Mês,201510,outubro 2015
+6588,Mês,201511,novembro 2015
+6588,Mês,201512,dezembro 2015
+6588,Mês,201601,janeiro 2016
+6588,Mês,201602,fevereiro 2016
+6588,Mês,201603,março 2016
+6588,Mês,201604,abril 2016
+6588,Mês,201605,maio 2016
+6588,Mês,201606,junho 2016
+6588,Mês,201607,julho 2016
+6588,Mês,201608,agosto 2016
+6588,Mês,201609,setembro 2016
+6588,Mês,201610,outubro 2016
+6588,Mês,201611,novembro 2016
+6588,Mês,201612,dezembro 2016
+6588,Mês,201701,janeiro 2017
+6588,Mês,201702,fevereiro 2017
+6588,Mês,201703,março 2017
+6588,Mês,201704,abril 2017
+6588,Mês,201705,maio 2017
+6588,Mês,201706,junho 2017
+6588,Mês,201707,julho 2017
+6588,Mês,201708,agosto 2017
+6588,Mês,201709,setembro 2017
+6588,Mês,201710,outubro 2017
+6588,Mês,201711,novembro 2017
+6588,Mês,201712,dezembro 2017
+6588,Mês,201801,janeiro 2018
+6588,Mês,201802,fevereiro 2018
+6588,Mês,201803,março 2018
+6588,Mês,201804,abril 2018
+6588,Mês,201805,maio 2018
+6588,Mês,201806,junho 2018
+6588,Mês,201807,julho 2018
+6588,Mês,201808,agosto 2018
+6588,Mês,201809,setembro 2018
+6588,Mês,201810,outubro 2018
+6588,Mês,201811,novembro 2018
+6588,Mês,201812,dezembro 2018
+6588,Mês,201901,janeiro 2019
+6588,Mês,201902,fevereiro 2019
+6588,Mês,201903,março 2019
+6588,Mês,201904,abril 2019
+6588,Mês,201905,maio 2019
+6588,Mês,201906,junho 2019
+6588,Mês,201907,julho 2019
+6588,Mês,201908,agosto 2019
+6588,Mês,201909,setembro 2019
+6588,Mês,201910,outubro 2019
+6588,Mês,201911,novembro 2019
+6588,Mês,201912,dezembro 2019
+6588,Mês,202001,janeiro 2020
+6588,Mês,202002,fevereiro 2020
+6588,Mês,202003,março 2020
+6588,Mês,202004,abril 2020
+6588,Mês,202005,maio 2020
+6588,Mês,202006,junho 2020
+6588,Mês,202007,julho 2020
+6588,Mês,202008,agosto 2020
+6588,Mês,202009,setembro 2020
+6588,Mês,202010,outubro 2020
+6588,Mês,202011,novembro 2020
+6588,Mês,202012,dezembro 2020
+6588,Mês,202101,janeiro 2021
+6588,Mês,202102,fevereiro 2021
+6588,Mês,202103,março 2021
+6588,Mês,202104,abril 2021
+6588,Mês,202105,maio 2021
+6588,Mês,202106,junho 2021
+6588,Mês,202107,julho 2021
+6588,Mês,202108,agosto 2021
+6588,Mês,202109,setembro 2021
+6588,Mês,202110,outubro 2021
+6588,Mês,202111,novembro 2021
+6588,Mês,202112,dezembro 2021
+6588,Mês,202201,janeiro 2022
+6588,Mês,202202,fevereiro 2022
+6588,Mês,202203,março 2022
+6588,Mês,202204,abril 2022
+6588,Mês,202205,maio 2022
+6588,Mês,202206,junho 2022
+6588,Mês,202207,julho 2022
+6588,Mês,202208,agosto 2022
+6588,Mês,202209,setembro 2022
+6588,Mês,202210,outubro 2022
+6588,Mês,202211,novembro 2022
+6588,Mês,202212,dezembro 2022
+6588,Mês,202301,janeiro 2023
+6588,Mês,202302,fevereiro 2023
+6588,Mês,202303,março 2023
+6588,Mês,202304,abril 2023
+6588,Mês,202305,maio 2023
+6588,Mês,202306,junho 2023
+6588,Mês,202307,julho 2023
+6588,Mês,202308,agosto 2023
+6588,Mês,202309,setembro 2023
+6588,Mês,202310,outubro 2023
+6588,Mês,202311,novembro 2023
+6588,Mês,202312,dezembro 2023
+6588,Mês,202401,janeiro 2024
+6588,Mês,202402,fevereiro 2024
+6588,Mês,202403,março 2024
+6588,Mês,202404,abril 2024
+6588,Mês,202405,maio 2024
+6588,Mês,202406,junho 2024
+6588,Mês,202407,julho 2024
+6588,Mês,202408,agosto 2024
+6588,Mês,202409,setembro 2024
+6588,Mês,202410,outubro 2024
+6588,Mês,202411,novembro 2024
+6588,Mês,202412,dezembro 2024
+6588,Mês,202501,janeiro 2025
+6588,Mês,202502,fevereiro 2025
+6588,Mês,202503,março 2025
+6588,Mês,202504,abril 2025
+6588,Mês,202505,maio 2025
+6588,Mês,202506,junho 2025
+6588,Mês,202507,julho 2025
+6588,Mês,202508,agosto 2025
+6588,Mês,202509,setembro 2025
+6588,Mês,202510,outubro 2025
+6588,Mês,202511,novembro 2025
+6588,Mês,202512,dezembro 2025
+6588,Mês,202601,janeiro 2026
+6588,Mês,202602,fevereiro 2026
+6588,Mês,202603,março 2026
+6588,Mês,202604,abril 2026
+6588,Mês,202605,maio 2026
+6588,Mês,202606,junho 2026
+6588,Mês,202607,julho 2026
+6588,Mês,202608,agosto 2026
+6588,Mês,202609,setembro 2026
+6588,Mês,202610,outubro 2026
+6588,Produto das lavouras,0,Total
+6588,Produto das lavouras,39428,"1 Cereais, leguminosas e oleaginosas"
+6588,Produto das lavouras,39429,1.1 Algodão herbáceo
+6588,Produto das lavouras,39430,1.2 Amendoim (1ª Safra)
+6588,Produto das lavouras,39431,1.3 Amendoim (2ª Safra)
+6588,Produto das lavouras,39432,1.4 Arroz
+6588,Produto das lavouras,39433,1.5 Aveia
+6588,Produto das lavouras,39434,1.7 Centeio
+6588,Produto das lavouras,39435,1.8 Cevada
+6588,Produto das lavouras,39436,1.9 Feijão (1ª Safra)
+6588,Produto das lavouras,39437,1.10 Feijão (2ª Safra)
+6588,Produto das lavouras,39438,1.11 Feijão (3ª Safra)
+6588,Produto das lavouras,39439,1.13 Girassol
+6588,Produto das lavouras,39440,1.14 Mamona
+6588,Produto das lavouras,39441,1.15 Milho (1ª Safra)
+6588,Produto das lavouras,39442,1.16 Milho (2ª Safra)
+6588,Produto das lavouras,39443,1.17 Soja
+6588,Produto das lavouras,39444,1.18 Sorgo
+6588,Produto das lavouras,39445,1.19 Trigo
+6588,Produto das lavouras,39446,1.20 Triticale
+6588,Produto das lavouras,39447,2 Abacaxi
+6588,Produto das lavouras,39448,3 Alho
+6588,Produto das lavouras,39449,4 Banana
+6588,Produto das lavouras,39450,5 Batata - inglesa (1ª Safra)
+6588,Produto das lavouras,39451,6 Batata - inglesa (2ª Safra)
+6588,Produto das lavouras,39452,7 Batata - inglesa (3ª Safra)
+6588,Produto das lavouras,39453,8 Cacau
+6588,Produto das lavouras,39454,9 Café arábica
+6588,Produto das lavouras,39455,10 Café canephora
+6588,Produto das lavouras,39456,11 Cana-de-açúcar
+6588,Produto das lavouras,39457,12 Castanha-de-caju
+6588,Produto das lavouras,39458,13 Cebola
+6588,Produto das lavouras,39459,14 Coco-da-baía
+6588,Produto das lavouras,39460,15 Fumo
+6588,Produto das lavouras,39461,16 Guaraná
+6588,Produto das lavouras,39462,17 Juta
+6588,Produto das lavouras,39463,18 Laranja
+6588,Produto das lavouras,39464,19 Maçã
+6588,Produto das lavouras,39465,20 Malva
+6588,Produto das lavouras,39467,21 Mandioca
+6588,Produto das lavouras,39468,22 Pimenta-do-reino
+6588,Produto das lavouras,39469,23 Sisal ou agave
+6588,Produto das lavouras,39470,24 Tomate
+6588,Produto das lavouras,39471,25 Uva
+6588,Produto das lavouras,40527,9/10 Café total
+6588,Produto das lavouras,82223,1.6 Canola
+6588,Produto das lavouras,82224,1.12 Gergelim
+6588,Variável,109,Área plantada
+6588,Variável,216,Área colhida
+6588,Variável,35,Produção
+6847,Ano,2017,2017
+6847,Classe de idade do produtor,45951,Total
+6847,Escolaridade do produtor,41147,Total
+6847,Forma de obtenção de informações técnicas recebidas pelo estabelecimento,46544,Total
+6847,Sexo do produtor,41145,Total
+6847,Tipologia,46302,Total
+6847,Tipologia,46303,Agricultura familiar - não
+6847,Tipologia,46304,Agricultura familiar - sim
+6847,Tipologia,46305,Agricultura familiar - Pronaf B
+6847,Tipologia,46306,Agricultura familiar - Pronaf V
+6847,Tipologia,46307,Agricultura familiar - não pronafiano
+6847,Tipologia,46422,Pronamp - sim
+6847,Tipologia,46423,Pronamp - não
+6847,Uso de adubação,46545,Total
+6847,Uso de adubação,46546,Fez adubação
+6847,Uso de adubação,46547,Fez adubação - química
+6847,Uso de adubação,46548,Fez adubação - orgânica
+6847,Uso de adubação,46549,Fez adubação - química e orgânica
+6847,Uso de adubação,46550,Não fez adubação
+6847,Uso de adubação,46551,Não fez adubação - não costuma fazer adubação
+6847,Uso de adubação,46552,Não fez adubação - costuma fazer adubação
+6847,Variável,183,Número de estabelecimentos agropecuários
+6849,Ano,2017,2017
+6849,Classe de idade do produtor,45951,Total
+6849,Condição do produtor em relação às terras,46502,Total
+6849,Escolaridade do produtor,41147,Total
+6849,Sexo do produtor,41145,Total
+6849,Tipologia,46302,Total
+6849,Tipologia,46303,Agricultura familiar - não
+6849,Tipologia,46304,Agricultura familiar - sim
+6849,Tipologia,46305,Agricultura familiar - Pronaf B
+6849,Tipologia,46306,Agricultura familiar - Pronaf V
+6849,Tipologia,46307,Agricultura familiar - não pronafiano
+6849,Tipologia,46422,Pronamp - sim
+6849,Tipologia,46423,Pronamp - não
+6849,Uso de calcário e/ou outros corretivos do pH do solo,46553,Total
+6849,Uso de calcário e/ou outros corretivos do pH do solo,46554,Fez aplicação
+6849,Uso de calcário e/ou outros corretivos do pH do solo,46555,Não fez aplicação
+6849,Variável,183,Número de estabelecimentos agropecuários
+6899,Ano,2017,2017
+6899,Condição do produtor em relação às terras,46502,Total
+6899,Grupos de atividade econômica,113601,Total
+6899,Tipo de despesa,111957,Arrendamento de terras
+6899,Tipo de despesa,111962,Sementes e mudas
+6899,Tipo de despesa,111966,Agrotóxicos
+6899,Tipo de despesa,111967,Medicamentos para animais
+6899,Tipo de despesa,111972,Transporte da produção
+6899,Tipo de despesa,111976,Outras despesas
+6899,Tipo de despesa,113946,Total
+6899,Tipo de despesa,116712,Compra de animais
+6899,Tipo de despesa,45952,Contratação de serviços
+6899,Tipo de despesa,45953,Adubos e corretivos
+6899,Tipo de despesa,45954,"Sal, ração e outros suplementos"
+6899,Tipo de despesa,45955,Compra de máquinas e veículos
+6899,Tipo de despesa,45956,Combustíveis e lubrificantes
+6899,Tipo de despesa,45957,Novas culturas permanentes e silvicultura
+6899,Tipo de despesa,45958,Formação de pastagens
+6899,Tipo de despesa,45959,Salários pagos
+6899,Tipo de despesa,5497,Energia elétrica
+6899,Tipologia,46302,Total
+6899,Tipologia,46303,Agricultura familiar - não
+6899,Tipologia,46304,Agricultura familiar - sim
+6899,Tipologia,46305,Agricultura familiar - Pronaf B
+6899,Tipologia,46306,Agricultura familiar - Pronaf V
+6899,Tipologia,46307,Agricultura familiar - não pronafiano
+6899,Tipologia,46422,Pronamp - sim
+6899,Tipologia,46423,Pronamp - não
+6899,Variável,1996,Valor das despesas realizadas pelos estabelecimentos agropecuários
+6899,Variável,2,Número de estabelecimentos agropecuários que realizaram despesas
+6900,Ano,2017,2017
+6900,Grupos de área total,110085,Total
+6900,Grupos de área total,111543,"Mais de 0 a menos de 0,1 ha"
+6900,Grupos de área total,111544,"De 0,1 a menos de 0,2 ha"
+6900,Grupos de área total,111545,"De 0,2 a menos de 0,5 ha"
+6900,Grupos de área total,111546,"De 0,5 a menos de 1 ha"
+6900,Grupos de área total,111547,De 1 a menos de 2 ha
+6900,Grupos de área total,111548,De 2 a menos de 3 ha
+6900,Grupos de área total,111549,De 3 a menos de 4 ha
+6900,Grupos de área total,111550,De 4 a menos de 5 ha
+6900,Grupos de área total,111551,De 5 a menos de 10 ha
+6900,Grupos de área total,111552,De 10 a menos de 20 ha
+6900,Grupos de área total,111553,De 20 a menos de 50 ha
+6900,Grupos de área total,111554,De 50 a menos de 100 ha
+6900,Grupos de área total,111555,De 100 a menos de 200 ha
+6900,Grupos de área total,111556,De 200 a menos de 500 ha
+6900,Grupos de área total,111557,De 500 a menos de 1.000 ha
+6900,Grupos de área total,111558,De 1.000 a menos de 2.500 ha
+6900,Grupos de área total,111560,Produtor sem área
+6900,Grupos de área total,40645,De 10.000 ha e mais
+6900,Grupos de área total,41139,De 2.500 a menos de 10.000 ha
+6900,Tipo de despesa,111957,Arrendamento de terras
+6900,Tipo de despesa,111962,Sementes e mudas
+6900,Tipo de despesa,111966,Agrotóxicos
+6900,Tipo de despesa,111967,Medicamentos para animais
+6900,Tipo de despesa,111972,Transporte da produção
+6900,Tipo de despesa,111976,Outras despesas
+6900,Tipo de despesa,113946,Total
+6900,Tipo de despesa,116712,Compra de animais
+6900,Tipo de despesa,45952,Contratação de serviços
+6900,Tipo de despesa,45953,Adubos e corretivos
+6900,Tipo de despesa,45954,"Sal, ração e outros suplementos"
+6900,Tipo de despesa,45955,Compra de máquinas e veículos
+6900,Tipo de despesa,45956,Combustíveis e lubrificantes
+6900,Tipo de despesa,45957,Novas culturas permanentes e silvicultura
+6900,Tipo de despesa,45958,Formação de pastagens
+6900,Tipo de despesa,45959,Salários pagos
+6900,Tipo de despesa,5497,Energia elétrica
+6900,Tipologia,46302,Total
+6900,Variável,1996,Valor das despesas realizadas pelos estabelecimentos agropecuários
+6900,Variável,2,Número de estabelecimentos agropecuários que realizaram despesas

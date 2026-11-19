@@ -1,0 +1,516 @@
+ano,item_cod,produto_fao,produto,producao_t,importacao_t,exportacao_t,uso_agricola_t,importacao_mil_usd,exportacao_mil_usd
+2002,4007,"Ammonia, anhydrous",Amônia anidra,1248009,267472.84,158,,36052.83,40.9
+2002,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),627217,4372088.32,1885.25,5018349,579715.69,309.45
+2002,4027,PK compounds,Compostos PK,,1314.93,112486.9,,1288.35,16922.81
+2002,4021,NPK fertilizers,Fertilizantes NPK,,11113.21,171739.52,,3745.74,27891.37
+2002,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,170515.84,11890.18,,38170.17,3794.33
+2002,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),6126,151045.51,14297.1,140103,26203.98,2874.69
+2002,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),888375,1395627.64,341,2245023,239428.25,79.59
+2002,4003,Ammonium nitrate (AN),Nitrato de amônio,484283,564611.54,29376.91,939031,62366.11,5247.47
+2002,4025,Potassium nitrate,Nitrato de potássio,,32184.3,,18875,8753.5,
+2002,4005,Sodium nitrate,Nitrato de sódio,,8549.47,5,,2177.94,0.27
+2002,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,,,4096,,
+2002,4024,Other NP compounds,Outros compostos NP,,283326.01,13532.81,,37355.07,1935
+2002,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,10720.79,693,,899.11,101.17
+2002,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,29082.96,83123.79,,7123.37,7351.29
+2002,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,39.63,196.3,,93.32,171.46
+2002,4011,Phosphate rock,Rocha fosfática,4984772,1047968.67,629,,58005.81,57.38
+2002,4002,Ammonium sulphate,Sulfato de amônio,213165,1145149.83,2435.71,1430570,93649.43,374.63
+2002,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,78513.56,0.9,46841,15071.6,5.72
+2002,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),,866292.6,33548.9,905381,104568.39,4616.8
+2002,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",,,,4578011,,
+2002,4001,Urea,Ureia,1284962,1103294.78,99188.99,1887382,131945.9,8985.97
+2003,4007,"Ammonia, anhydrous",Amônia anidra,1143059,287946.06,78.04,,63440.95,26.19
+2003,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),650536,5228237.39,3525.44,6543852,689281.08,595.49
+2003,4027,PK compounds,Compostos PK,,939.98,201773.98,,1038.17,33988.92
+2003,4021,NPK fertilizers,Fertilizantes NPK,,22557.86,231914.88,,5863.71,41954.94
+2003,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,178280.75,18330.81,,41499.77,5518.49
+2003,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),4356,220864.04,14126,269226,44787.46,3278.49
+2003,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1010317,977822.45,804.01,2910972,204492.19,189.14
+2003,4003,Ammonium nitrate (AN),Nitrato de amônio,416835,477543.6,28495.79,745665,54648.78,5833.37
+2003,4025,Potassium nitrate,Nitrato de potássio,,36765.83,,22763,9964.81,
+2003,4005,Sodium nitrate,Nitrato de sódio,,11053.81,0,,3321.52,0
+2003,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,450,1,23922,67.27,0.27
+2003,4024,Other NP compounds,Outros compostos NP,,504897.56,22889.99,,75905.17,3119.92
+2003,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,9185.93,1974.5,,844.08,340.94
+2003,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,36255.32,63360.04,,9400.97,9842.63
+2003,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,3116.72,117.6,,766.28,118.56
+2003,4011,Phosphate rock,Rocha fosfática,5213482,1095180.8,4210.01,,63539.48,184.11
+2003,4002,Ammonium sulphate,Sulfato de amônio,223383,1587488.03,2463.91,2007494,136988.84,365
+2003,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,59958.66,14.11,55169,13739.35,8.36
+2003,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),530498,1066874.1,46976.26,1383767,159942.95,6864.55
+2003,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5307384,,,5673676,,
+2003,4001,Urea,Ureia,1193568,3085153.87,45200.55,2708648,270065.5,6632.64
+2004,4007,"Ammonia, anhydrous",Amônia anidra,1301483,228731.04,160,,65346.7,54.9
+2004,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),640473,6816891.13,4492.26,7033222,1136010.17,983.02
+2004,4027,PK compounds,Compostos PK,,1622.45,247299.8,,1718.62,51987.47
+2004,4021,NPK fertilizers,Fertilizantes NPK,,87799.1,272020.4,316680,19134.78,59388.02
+2004,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,229138.56,9181.35,,58203.73,4983.33
+2004,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),7071,303683.45,13332.01,279128,71768.52,3767.58
+2004,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),966679,2234825.88,5186.77,3119238,548896.18,1178.17
+2004,4003,Ammonium nitrate (AN),Nitrato de amônio,412139,269025.01,32364.1,497712,42709.85,7887.31
+2004,4025,Potassium nitrate,Nitrato de potássio,,32745.37,0.03,30471,10881.55,0.01
+2004,4005,Sodium nitrate,Nitrato de sódio,,10782.54,0.4,,3824.81,0.17
+2004,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,2775,,13066,524.95,
+2004,4024,Other NP compounds,Outros compostos NP,276489,844204.82,44141.84,276489,156632.65,7239.93
+2004,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,364.5,3753.73,,199,772.98
+2004,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,46576.08,133197,,10929.9,28505.08
+2004,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,5444.22,141.05,,1284.87,138.22
+2004,4011,Phosphate rock,Rocha fosfática,5660587,1563891.68,621,,106140.02,67.69
+2004,4002,Ammonium sulphate,Sulfato de amônio,240824,1673512.91,1437.35,1798408,216712.86,296.5
+2004,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,83887.28,0.02,84462,20985.05,0.09
+2004,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),650021,1540582.82,63681.95,1678024,277454.7,11113.38
+2004,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5628486,,,6013534,,
+2004,4001,Urea,Ureia,1195504,1861239.2,26477.44,2565872,395224.14,5145.35
+2005,4007,"Ammonia, anhydrous",Amônia anidra,1301083,252208.24,262,,76994.54,109.92
+2005,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),640852,5013151.21,3233.79,5691340,1081615.39,878.29
+2005,4027,PK compounds,Compostos PK,,1572.83,191188.59,,1910.6,42305.6
+2005,4021,NPK fertilizers,Fertilizantes NPK,,10640.52,250049.5,97136,6015.05,61245.26
+2005,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,180456.9,7493.7,,52469.9,3753.14
+2005,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),217,244752.92,13731.35,163662,66006.66,4424.72
+2005,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),913866,1286814.09,238.38,2117597,353143.91,85.83
+2005,4003,Ammonium nitrate (AN),Nitrato de amônio,506335,244101.93,32967.68,573402,51008.03,9131.72
+2005,4025,Potassium nitrate,Nitrato de potássio,,32808.1,,40956,13086.91,
+2005,4005,Sodium nitrate,Nitrato de sódio,,10377.94,2.62,,3949.13,4.26
+2005,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,,,19408,,
+2005,4024,Other NP compounds,Outros compostos NP,286220,550474.62,41503.77,286220,120203.34,6933.73
+2005,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,33.51,7761.42,,72.75,1311.22
+2005,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,56012.38,84355.35,,13373.56,20209.34
+2005,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,6083.09,133.85,,1381.6,104.13
+2005,4011,Phosphate rock,Rocha fosfática,5588265,1220852,165.73,,83303.56,18.97
+2005,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,0.01,0.03,,0.06,0.08
+2005,4002,Ammonium sulphate,Sulfato de amônio,219367,1314623.55,3531.08,1600768,192190.95,768.91
+2005,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,50519.9,0.01,41164,16480.01,0.04
+2005,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),670083,984908.54,169471.82,1489242,199367.61,22420.21
+2005,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4707320,,,4685650,,
+2005,4001,Urea,Ureia,1294662,1558064.43,62324.65,2516498,394783,14608.74
+2006,4007,"Ammonia, anhydrous",Amônia anidra,1315421,254143.85,294,,83123,133.25
+2006,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),731401,5403613.06,5895.99,5821071,1067297.58,1544.88
+2006,4027,PK compounds,Compostos PK,,1886.69,206174.55,,2328.8,46113.18
+2006,4021,NPK fertilizers,Fertilizantes NPK,,40171.95,273104.75,43281,12919.07,67328.27
+2006,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,182937.64,6455.43,,56354.11,3465.25
+2006,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),4839,252834.69,11006.5,240570,73039.35,3942.39
+2006,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1098239,1135570.25,86,2219365,333886.5,32.74
+2006,4003,Ammonium nitrate (AN),Nitrato de amônio,470518,339036.53,19469.6,600854,69183.34,6313.45
+2006,4025,Potassium nitrate,Nitrato de potássio,,22758.07,,18106,9961.48,
+2006,4005,Sodium nitrate,Nitrato de sódio,,10977.32,0.02,,4350.14,0.01
+2006,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,308,0.03,1451,80.57,0.07
+2006,4024,Other NP compounds,Outros compostos NP,285117,623500.17,31994.22,285117,134487.18,6016.46
+2006,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,9.25,12108.1,,57.65,2099.21
+2006,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,49159.68,78072.67,,13053.14,19874.63
+2006,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,8098.85,276.32,,1867.43,190.25
+2006,4011,Phosphate rock,Rocha fosfática,5754141,1406159.62,462.21,,94441.01,70.2
+2006,4002,Ammonium sulphate,Sulfato de amônio,236449,1635844.64,4345.28,1810213,219251.8,906.55
+2006,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,54299.71,0.01,52720,18082.63,0.56
+2006,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),742791,1070319.74,134437.18,1647342,224497.62,17799.44
+2006,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4540965,,,4553288,,
+2006,4001,Urea,Ureia,1411673,1587883.3,9511,2651779,401303.79,3057.71
+2007,4007,"Ammonia, anhydrous",Amônia anidra,1211604,313405.85,23981.94,,113531.29,5622.3
+2007,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),670969,6746186.93,13974.07,7087687,1660972.22,4774.67
+2007,4027,PK compounds,Compostos PK,,1842.83,226869.38,,2457.94,72446.44
+2007,4021,NPK fertilizers,Fertilizantes NPK,,99642.4,393352.73,581234,34492.75,124330.93
+2007,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,177053.99,4747.21,,58252.32,5101.2
+2007,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),1768,576744.69,9909,619575,227550.59,4055.91
+2007,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1043301,1644952.13,314.35,2663264,724632.53,130.18
+2007,4003,Ammonium nitrate (AN),Nitrato de amônio,462060,770559.33,14148.58,992677,203593.93,4423.39
+2007,4025,Potassium nitrate,Nitrato de potássio,,24219.48,0.05,21090,10144.61,0.16
+2007,4005,Sodium nitrate,Nitrato de sódio,,13567.33,4.2,,5563.98,6.19
+2007,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,38119.67,,25943,8739.26,
+2007,4024,Other NP compounds,Outros compostos NP,280673,952045.37,46947.3,280673,301404.57,13679.66
+2007,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,140.49,25854.83,,42.81,5462.59
+2007,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,88317.46,36301.17,,22305.84,11854.54
+2007,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,7630.66,170.76,,2086.39,234.46
+2007,4011,Phosphate rock,Rocha fosfática,6057579,1749664.71,1026,,154443.39,140.89
+2007,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,,347.55,,,371.54
+2007,4002,Ammonium sulphate,Sulfato de amônio,258127,1876131.7,4130.25,1631473,346750.51,1115.52
+2007,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,34538.03,98.44,28648,12327.94,64.8
+2007,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),910047,1572247.26,67072.34,1816577,500951.51,14656.58
+2007,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5767188,,,5316441,,
+2007,4001,Urea,Ureia,1277753,2510852.16,17162.04,2889796,831716.35,6803.44
+2008,4007,"Ammonia, anhydrous",Amônia anidra,1226059,305677.43,24087.4,,201100.37,11669.38
+2008,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),606707,6752069.81,17193.28,7087687,4108024.8,11839.53
+2008,4027,PK compounds,Compostos PK,,2728.67,213413.53,,6233.61,130253.87
+2008,4021,NPK fertilizers,Fertilizantes NPK,,350746.47,354248.76,112976,223371.88,207749.78
+2008,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,183402.58,8041.91,,110741.45,13814.57
+2008,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),,535139.09,2709.9,490921,474258.16,2859.6
+2008,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1130097,1129984.95,7.93,2184047,1212257.07,8.39
+2008,4003,Ammonium nitrate (AN),Nitrato de amônio,447057,769209.46,13625,992677,358409.26,6691.41
+2008,4025,Potassium nitrate,Nitrato de potássio,,28645.32,0.16,23329,23956.95,5.61
+2008,4005,Sodium nitrate,Nitrato de sódio,,17427.36,0.63,,10328.84,1.65
+2008,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,16105.85,,25943,5673.83,
+2008,4024,Other NP compounds,Outros compostos NP,222901,780162.79,44781.24,576588,462893.11,27723.97
+2008,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,47445.39,14858.5,,18177.61,7470.72
+2008,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,95722.97,29288.3,,35610.9,16458.41
+2008,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,8889.8,219.15,,4260.62,313.73
+2008,4011,Phosphate rock,Rocha fosfática,6292826,1615730.52,864.54,,374296.72,356.67
+2008,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,,886.69,,,1193.28
+2008,4002,Ammonium sulphate,Sulfato de amônio,219265,1526162.98,3374.6,1631473,558306.31,1465.03
+2008,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,34656.76,532.84,28648,26723.03,617.09
+2008,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),808312,1322427.94,43276.59,1816577,1038395.56,20416.34
+2008,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5056130,,,5316441,,
+2008,4001,Urea,Ureia,1182484,2234822.28,15795.95,2889796,1331533.17,10069.05
+2009,4007,"Ammonia, anhydrous",Amônia anidra,1058540,325792.18,14870.75,,97894.38,4362.77
+2009,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),716635,3447339.14,13862.5,4068168,2183411.57,9312.1
+2009,4027,PK compounds,Compostos PK,,1160.78,116983.71,,2282.27,45075.3
+2009,4021,NPK fertilizers,Fertilizantes NPK,,195324.94,263507.28,,79275.84,109799.79
+2009,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,187705.12,8529.28,,105812.55,10654.34
+2009,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),,304910.29,30112.64,283673,119633.95,13601.49
+2009,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1065910,852578.16,1852.46,1892484,306003.15,862.38
+2009,4003,Ammonium nitrate (AN),Nitrato de amônio,455159,942008.63,16496.36,1239491,199998.74,6470.66
+2009,4025,Potassium nitrate,Nitrato de potássio,,17761.74,0.03,,20813.79,0.87
+2009,4005,Sodium nitrate,Nitrato de sódio,,13606.07,111.69,,8616.71,100.86
+2009,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,36044.45,,81628,6706.54,
+2009,4024,Other NP compounds,Outros compostos NP,238260,216655.47,46884.85,228781,84590.52,13434.78
+2009,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,405.28,10163.18,,272.02,2878.71
+2009,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,88852.4,20483.36,,26457.97,7520.91
+2009,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,15150.55,80.34,,5592.85,248.3
+2009,4011,Phosphate rock,Rocha fosfática,5913835,915077.24,0,,102604.18,0.22
+2009,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,0.95,396.25,,2.58,521.8
+2009,4002,Ammonium sulphate,Sulfato de amônio,226378,1506591.04,3473.36,1839159,230414.45,818.3
+2009,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,29042.94,169.85,37550,29628.43,531.38
+2009,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),801369,1084845.07,66134.58,1614760,262094.29,16947.77
+2009,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4553714,,,4742383,,
+2009,4001,Urea,Ureia,1117345,1940887.33,15358.54,2758737,567396.5,5662.66
+2010,4007,"Ammonia, anhydrous",Amônia anidra,1176526,363668.93,35460.95,,150316.81,14383.79
+2010,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),664214,6123876.07,21466.34,6772956,2421288.27,9863
+2010,4027,PK compounds,Compostos PK,,1997.72,154494.95,,3280.49,57965.86
+2010,4021,NPK fertilizers,Fertilizantes NPK,,279931.43,392350.86,,114291.99,151781.02
+2010,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,165587.53,10233.33,,92233.26,12571.88
+2010,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),,358707.48,10592,357398,161299.96,5020.71
+2010,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1047536,1195855.31,543.46,2189529,599923.43,306.29
+2010,4003,Ammonium nitrate (AN),Nitrato de amônio,446983,1036106.77,10061.68,1211306,260962.68,4696.89
+2010,4025,Potassium nitrate,Nitrato de potássio,,6868.22,0.2,,6729.78,0.28
+2010,4005,Sodium nitrate,Nitrato de sódio,,13450.11,108.92,,8422.95,96.36
+2010,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,119822.19,,173872,29921.54,
+2010,4024,Other NP compounds,Outros compostos NP,237775,478739.35,57371.33,450569,181372.69,22490.6
+2010,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,641.29,20132.27,,477.07,6290.71
+2010,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,99739.99,29695.5,,33083.95,12132.1
+2010,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,24290.37,121.14,,8391.77,388.92
+2010,4011,Phosphate rock,Rocha fosfática,5587566,1399364.92,1659.5,,171514.3,473.02
+2010,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,1.63,581.09,,3.65,602.03
+2010,4002,Ammonium sulphate,Sulfato de amônio,293137,1652535.91,2831.31,1822472,280737.54,834.92
+2010,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,37063.66,256.12,33922,22631.1,740.64
+2010,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),942774,1304139.88,68761.15,1901110,429796.29,20073.57
+2010,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5412780,,,5670131,,
+2010,4001,Urea,Ureia,1269301,2547187.05,16152.11,3426757,797092.83,6379.76
+2011,4007,"Ammonia, anhydrous",Amônia anidra,1352598,334139.84,28539,,196834.9,13896.88
+2011,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),619346,7679217,15921.26,8039204,3734985.85,8638.04
+2011,4027,PK compounds,Compostos PK,,3086.31,124546.69,,6190.7,60634.54
+2011,4021,NPK fertilizers,Fertilizantes NPK,,457969.82,391852.42,,230729.32,206181.6
+2011,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,149729.24,11625.71,,112409.65,18825.12
+2011,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),,489706.51,2756.75,464654,310585.25,2029.36
+2011,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),952634,2103938.63,890.45,2942813,1411445.57,688.78
+2011,4003,Ammonium nitrate (AN),Nitrato de amônio,457897,1488751.84,3870.08,1689132,557289.26,2171.27
+2011,4025,Potassium nitrate,Nitrato de potássio,,8969.38,0.03,9610,7939.84,0.92
+2011,4005,Sodium nitrate,Nitrato de sódio,,11911.12,13.91,,8306.58,25.82
+2011,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,208913.92,780,236670,69721.39,327.6
+2011,4024,Other NP compounds,Outros compostos NP,207628,1132988.08,62663.35,1086755,558801.18,30681.5
+2011,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,1025.5,12862.58,,849.42,5487.01
+2011,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,124197.73,30180.75,,48792.87,16275.19
+2011,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,30309.31,229.37,,11394.39,851.12
+2011,4011,Phosphate rock,Rocha fosfática,6022722,1427579.29,1679.13,,240779.4,435.8
+2011,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,,670.51,,,787.41
+2011,4002,Ammonium sulphate,Sulfato de amônio,314435,2025146.68,4884,2176526,543465.43,1667.31
+2011,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,32539.77,721.7,33986,20972.56,1362.27
+2011,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),914369,1739777,72230.05,1919781,753621.48,27236.43
+2011,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5888603,,,6435374,,
+2011,4001,Urea,Ureia,1463372,3041116,10030.8,3967570,1419769.62,6054.79
+2012,4007,"Ammonia, anhydrous",Amônia anidra,1182014,399045.01,24159.28,0,245075.31,15294.47
+2012,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),548533,7043169.76,12187.66,7889862,3716758.82,7545.55
+2012,4027,PK compounds,Compostos PK,,2721.82,68493.44,,5255.13,34225.27
+2012,4021,NPK fertilizers,Fertilizantes NPK,,495030.35,374391.71,,267774.69,201514.86
+2012,4030,Fertilizers n.e.c.,Fertilizantes não especificados,,183450.45,10834.17,,141070.26,15571.18
+2012,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),,577615.36,7149.76,696216,340049.21,5103.07
+2012,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1344694,1772184.46,1383.94,3108170,1068243.88,1120.86
+2012,4003,Ammonium nitrate (AN),Nitrato de amônio,489560,1235816.22,2148.16,1681156,458306.78,1318.03
+2012,4025,Potassium nitrate,Nitrato de potássio,,15226.96,0.37,11066,14175.63,0.38
+2012,4005,Sodium nitrate,Nitrato de sódio,,13031.94,665.11,,10095.27,365.88
+2012,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,,299785.57,3791,341533,93076.21,1669.94
+2012,4026,Other NK compounds,Outros compostos NK,,,,47975,,
+2012,4024,Other NP compounds,Outros compostos NP,180716,883146.96,50140.39,1092631,433966.95,23100.03
+2012,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,,25076.12,4904.57,380117,6205.11,3558.09
+2012,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,,123091.21,15492.57,,51183.43,8637.75
+2012,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,,20396.7,313.5,,10836.38,918.69
+2012,4011,Phosphate rock,Rocha fosfática,6019758,1271646.27,1082.91,95600,236017.95,319.3
+2012,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),,1.83,289.5,,3.24,356.41
+2012,4002,Ammonium sulphate,Sulfato de amônio,295846,1631850.7,1169.19,2037830,477285.4,485.31
+2012,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,,40489.3,313.14,49129,28240.34,777.21
+2012,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),1007860,1667003.11,34489.76,2050507,658860.44,11006.41
+2012,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",5448432,,,6094604,,
+2012,4001,Urea,Ureia,1340811,2878285.42,12291.02,4245873,1382819.9,7251.37
+2013,4007,"Ammonia, anhydrous",Amônia anidra,1225655,321842.22,25728.07,0,185422.64,9982.94
+2013,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),492152,8135852.69,33955.47,8594045,3558724.04,17450.35
+2013,4027,PK compounds,Compostos PK,0,3966.19,69723.49,0,7395.99,34338.67
+2013,4021,NPK fertilizers,Fertilizantes NPK,0,474144.88,500720.31,0,216996.32,254046.1
+2013,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,182127.19,14543.79,167583,147135.06,20769.33
+2013,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,846208.13,5175,841032,446647.77,3823.08
+2013,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1305765,2496783.71,2905.45,3803523,1315897.6,2002.8
+2013,4003,Ammonium nitrate (AN),Nitrato de amônio,420513,1372458.73,2444.4,1579848,454808.99,1319.06
+2013,4025,Potassium nitrate,Nitrato de potássio,0,9680.86,0.01,9681,9895.3,0.58
+2013,4005,Sodium nitrate,Nitrato de sódio,0,13661.91,49.18,13613,10409.06,105.43
+2013,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,219287.87,2583,216705,65737.9,1217.44
+2013,4026,Other NK compounds,Outros compostos NK,0,,,0,,
+2013,4024,Other NP compounds,Outros compostos NP,163581,1446371.35,62417.14,1547535,645745.34,27094.39
+2013,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,50791,626.76,13706.36,37711,728.11,6847.77
+2013,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,151176.58,17886.22,133286,61643.99,10878.2
+2013,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,14780.99,265.75,14515,8282.77,844.21
+2013,4011,Phosphate rock,Rocha fosfática,5940568,1628740.23,412.85,0,254465.51,130.7
+2013,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,1.54,587.08,0,3.37,713.26
+2013,4002,Ammonium sulphate,Sulfato de amônio,253359,1769608.08,4110.66,1994634,459152.27,1486.94
+2013,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,40920.67,544.71,40373,25698.07,1149.21
+2013,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),936367,2018911.57,20704.96,2934574,688548.07,7854.18
+2013,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4931309,,,4931309,,
+2013,4001,Urea,Ureia,1357412,3498420.23,16292.38,4476875,1411577.7,8499.76
+2014,4007,"Ammonia, anhydrous",Amônia anidra,1060074,354621.7,24036.67,,193973.81,13260.32
+2014,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),492355,9051326.36,26611.01,,3154541.45,11218.56
+2014,4027,PK compounds,Compostos PK,0,4258.3,46230.12,,7687.06,19054.48
+2014,4021,NPK fertilizers,Fertilizantes NPK,0,629250.16,543865.81,,250914.71,237618.76
+2014,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,100775.74,12701.62,,114672.84,18036.98
+2014,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,756485.55,7547,,354650.76,3764.48
+2014,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1173197,2999769.11,3083.21,,1464763.75,1801.84
+2014,4003,Ammonium nitrate (AN),Nitrato de amônio,484655,1073818.28,1142.72,,345388.4,495.65
+2014,4025,Potassium nitrate,Nitrato de potássio,0,10559.47,1.02,,10216.11,3.2
+2014,4005,Sodium nitrate,Nitrato de sódio,0,11909.99,32.17,,9897.84,151.46
+2014,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,261825.98,1778,,70531.89,743.27
+2014,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2014,4024,Other NP compounds,Outros compostos NP,151622,1846156.85,49312.74,,743391.62,23396.76
+2014,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,46956,6743.7,15500.62,,2674.07,7072.31
+2014,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,235691.6,17379.77,,85075.07,9505.69
+2014,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,9956.53,355.6,,6160.47,1235.46
+2014,4011,Phosphate rock,Rocha fosfática,5792980,1752862.62,702.82,,228361.57,159.41
+2014,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,98.5,316.4,,33.58,711.13
+2014,4002,Ammonium sulphate,Sulfato de amônio,338110,1837140.4,4068,,381863.24,1398.62
+2014,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,48224.92,468.41,,33249.55,1235.98
+2014,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),915823,1626601.91,32067.66,,502304.98,10728.9
+2014,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4626220,,,,,
+2014,4001,Urea,Ureia,1107156,4398441.6,17022.23,,1607889.6,8906.54
+2015,4007,"Ammonia, anhydrous",Amônia anidra,1221803,353091.23,39005.5,,167754.94,14903.97
+2015,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),481269,7831308.77,25371.81,,2705200.57,10378.37
+2015,4027,PK compounds,Compostos PK,0,4750.61,19046.86,,7059.4,8754.68
+2015,4021,NPK fertilizers,Fertilizantes NPK,0,456602.68,454544.91,,177126.25,188653.72
+2015,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,79958.71,11467.33,,87416.68,23986.58
+2015,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,140452.05,3591,,70452.24,1989.6
+2015,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1220400,2283552.92,2313.8,,1129996.03,1302.44
+2015,4003,Ammonium nitrate (AN),Nitrato de amônio,515348,1039858.36,423.2,,279980.04,200.19
+2015,4025,Potassium nitrate,Nitrato de potássio,0,7346.91,0.47,,6945.13,9.69
+2015,4005,Sodium nitrate,Nitrato de sódio,0,13537.06,68.36,,11295.75,470.53
+2015,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,221753.91,917,,54357.12,407.88
+2015,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2015,4024,Other NP compounds,Outros compostos NP,140547,1257898.22,42834.13,,533303.68,19464.81
+2015,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,63674,463.66,4030,,570.09,2150.4
+2015,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,258651.11,13877.11,,88471.42,7080.6
+2015,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,31666.14,331.1,,12491.18,850.71
+2015,4011,Phosphate rock,Rocha fosfática,5439334,1870923.76,0.71,,238479.58,3.15
+2015,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,15571.42,368.11,,2392.45,1090.17
+2015,4002,Ammonium sulphate,Sulfato de amônio,275402,1624443.11,5020.03,,349794.75,1657.8
+2015,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,41555.71,281.98,,31562.68,710.8
+2015,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),859375,1413098.22,15481.68,,432975.49,5341.02
+2015,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4779825,,,,,
+2015,4001,Urea,Ureia,1423005,2849779.32,18123.33,,941977.87,7750.18
+2016,4007,"Ammonia, anhydrous",Amônia anidra,1212560,348340.83,101796.91,,104890.05,24739.58
+2016,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),499082,7510470.7,19008.02,,1840214.99,5757.36
+2016,4027,PK compounds,Compostos PK,0,5070.69,9997.39,,6828.86,3865.39
+2016,4021,NPK fertilizers,Fertilizantes NPK,0,873232.57,314635.68,,270842.77,108072.83
+2016,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,81245.76,13953.98,,95059.44,21258.88
+2016,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,445351.51,1855,,167444.36,820.5
+2016,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1153823,2714211.73,4748.2,,1023975,2157.76
+2016,4003,Ammonium nitrate (AN),Nitrato de amônio,522786,1183597.22,2612.24,,235600.7,967.4
+2016,4025,Potassium nitrate,Nitrato de potássio,0,4129.18,12.5,,4112.07,137.79
+2016,4005,Sodium nitrate,Nitrato de sódio,0,9864.97,59.18,,6379.69,325.12
+2016,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,274126.66,894,,53508.1,259.57
+2016,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2016,4024,Other NP compounds,Outros compostos NP,160956,1687946.87,56677.22,,598121.92,19829.24
+2016,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,100107,359.8,5225.52,,392.5,1701.86
+2016,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,421958.93,16071.16,,105312.77,7638.68
+2016,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,69426.42,793.28,,14399.93,577.35
+2016,4011,Phosphate rock,Rocha fosfática,5110514,1711171.59,2.5,,175985.58,0.44
+2016,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,28046.42,299.4,,3178.84,1920.66
+2016,4002,Ammonium sulphate,Sulfato de amônio,258482,1917921.47,3692.4,,362693.09,1112.71
+2016,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,45175.84,439.24,,26942.55,1008.09
+2016,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),854528,1387812.78,8068.33,,323270.45,2991.71
+2016,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4758855,,,,,
+2016,4001,Urea,Ureia,1327214,3958015.99,28501.87,,958096.41,9068.58
+2017,4007,"Ammonia, anhydrous",Amônia anidra,911861,286360.49,56537.6,,74185.22,14128.06
+2017,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),484877,9673661.45,11990.64,,2586312.37,4072.33
+2017,4027,PK compounds,Compostos PK,0,12650.66,8099.59,,9302.73,5489.67
+2017,4021,NPK fertilizers,Fertilizantes NPK,0,1117233.11,290130.56,,323594.15,99615.27
+2017,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,97426.37,18809.04,,112291.62,23732.01
+2017,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,458188.01,963.11,,163107.7,400.72
+2017,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1184560,3634881.21,6062.39,,1358891.73,2718.2
+2017,4003,Ammonium nitrate (AN),Nitrato de amônio,407838,1327483.44,2306.68,,281231.41,809.71
+2017,4025,Potassium nitrate,Nitrato de potássio,0,3585.4,15,,3530.06,179.18
+2017,4005,Sodium nitrate,Nitrato de sódio,0,6084.89,55.44,,3904.94,438.15
+2017,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,321650.4,100,,63421.01,27.6
+2017,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2017,4024,Other NP compounds,Outros compostos NP,144271,2276184.64,46647.02,,759023.55,17763.76
+2017,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,117463,245.27,6584.9,,254.54,2283.31
+2017,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,562708.13,19318.2,,135289.2,9570.83
+2017,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,147471.33,276.04,,26928.87,439.78
+2017,4011,Phosphate rock,Rocha fosfática,5343992,1903017.35,20,,174372.22,4.17
+2017,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,32476.77,438.59,,4558.27,1922.86
+2017,4002,Ammonium sulphate,Sulfato de amônio,264208,1903961.77,2873.11,,337178.11,990.46
+2017,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,44436.03,797.71,,23310.61,1261.56
+2017,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),953790,765504.44,3095,,220457.13,1159.97
+2017,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4255164,632341.63,1285.55,,100314.47,1128.34
+2017,4001,Urea,Ureia,836754,5425181.08,20628.42,,1333420.95,8294.29
+2018,4007,"Ammonia, anhydrous",Amônia anidra,892283,284815.68,47444.7,,83543.95,13629.74
+2018,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),343996,10520895.17,6382.61,,3335642.09,3066.51
+2018,4027,PK compounds,Compostos PK,0,10564.69,3134.19,,10797.17,3024.25
+2018,4021,NPK fertilizers,Fertilizantes NPK,0,1197606.22,285118.8,,390615.82,109330.75
+2018,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,80332.96,12270.2,,92163.53,21193.2
+2018,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,360141.73,671.79,,149131.79,339.58
+2018,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1220728,3320785.66,670.52,,1453237.48,409.08
+2018,4003,Ammonium nitrate (AN),Nitrato de amônio,478368,1032543.38,1403.49,,243941.24,519.66
+2018,4025,Potassium nitrate,Nitrato de potássio,0,4858.06,7.5,,4739.56,87.65
+2018,4005,Sodium nitrate,Nitrato de sódio,0,10128.62,44.7,,6299.8,325.29
+2018,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,315796.26,,,72486.76,
+2018,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2018,4024,Other NP compounds,Outros compostos NP,159649,2019802.8,53377.01,,767131.35,21021.16
+2018,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,147318,338.3,4899.68,,150.85,2032.88
+2018,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,537466.21,19547.95,,145057.63,12720.75
+2018,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,101730.57,811.51,,22870.6,498.65
+2018,4011,Phosphate rock,Rocha fosfática,5097907,1982291.2,315.12,,171264.29,48.91
+2018,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,50051.07,417.57,,8222.75,2447.29
+2018,4002,Ammonium sulphate,Sulfato de amônio,191496,1986638.79,4988.5,,372822.13,1473.8
+2018,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,33920.85,698.24,,17418.76,957.19
+2018,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),920250,984404.16,627,,333764.65,262.73
+2018,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4279919,1081439.4,645.7,,167118.83,1583.6
+2018,4001,Urea,Ureia,871403,5561452.59,17507.89,,1643561.47,7187.5
+2019,4007,"Ammonia, anhydrous",Amônia anidra,394669,265245.3,407,,65438.21,308.97
+2019,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),412007,10452746.45,3203.66,,3650949.22,1977.17
+2019,4027,PK compounds,Compostos PK,0,23526.33,3440.56,,15480.7,3187.97
+2019,4021,NPK fertilizers,Fertilizantes NPK,0,1516075.79,147532.97,,498443.6,61211.02
+2019,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,88698.34,10665.7,,107114.33,18848.65
+2019,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,289032.14,584.34,,110492.65,297.8
+2019,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),897880,3895242.53,1478.46,,1499990.01,675.32
+2019,4003,Ammonium nitrate (AN),Nitrato de amônio,356626,1235073.7,2092.28,,278010.02,680.64
+2019,4025,Potassium nitrate,Nitrato de potássio,0,3114.49,36.53,,3105.44,39.11
+2019,4005,Sodium nitrate,Nitrato de sódio,0,9536.78,60.04,,5884.05,436.64
+2019,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,413686.05,1272,,96388.53,471.48
+2019,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2019,4024,Other NP compounds,Outros compostos NP,78055,2085286.34,51926.78,,730838.05,19614.81
+2019,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,136807,166.88,9197.89,,344.33,3431.29
+2019,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,454677.01,19369.43,,120961.14,9986.88
+2019,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,175130.59,762.39,,41733.72,1317.35
+2019,4011,Phosphate rock,Rocha fosfática,3048516,2369076.27,72.83,,218699.77,13.72
+2019,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,55987.09,341.83,,10126.75,1585.92
+2019,4002,Ammonium sulphate,Sulfato de amônio,120147,2161905.22,4087.53,,402697.21,1227
+2019,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,40308.22,519.9,,21940.62,688.56
+2019,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),751005,954623.75,146,,314887.52,62.2
+2019,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4261298,1232660.72,245.84,,201714.03,847.08
+2019,4001,Urea,Ureia,434185,5586694.7,13261.99,,1640664.9,5367.44
+2020,4007,"Ammonia, anhydrous",Amônia anidra,146911,380178.49,489,,95007.96,386
+2020,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),430533,11235702.48,18704.5,,2781350.5,7055.83
+2020,4027,PK compounds,Compostos PK,0,56753.25,2540.45,,20616.95,1572.03
+2020,4021,NPK fertilizers,Fertilizantes NPK,0,1302042.05,232988.14,,366366.07,77050.84
+2020,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,68449.72,12849.53,,93498.33,16705.91
+2020,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,407076.61,1631,,127392.11,609.39
+2020,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),1189266,4761028.75,5425.88,,1529935.49,2198.93
+2020,4003,Ammonium nitrate (AN),Nitrato de amônio,346614,1146540.97,2428.6,,218836.24,1008.47
+2020,4025,Potassium nitrate,Nitrato de potássio,0,2810.03,,,2747.32,
+2020,4005,Sodium nitrate,Nitrato de sódio,0,8879.04,136.58,,5240.66,1032.62
+2020,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,385617.46,271.03,,74720.21,87.25
+2020,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2020,4024,Other NP compounds,Outros compostos NP,86119,2093801.23,45575.87,,613083.31,15821.24
+2020,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,88424,397.98,8493.04,,700.19,3356.45
+2020,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,481359.15,24598.32,,112148.65,11376.79
+2020,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,0,225440.32,580.17,,50148.98,736.14
+2020,4011,Phosphate rock,Rocha fosfática,5262316,1760623.32,2008.51,,161263.87,143.33
+2020,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,135682.4,282.65,,21705.27,1083.32
+2020,4002,Ammonium sulphate,Sulfato de amônio,124993,2837499.38,3722.25,,446205.72,1017.98
+2020,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,49295.27,264.89,,24698.97,292.27
+2020,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),648165,776850.84,210,,193595.9,64.05
+2020,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",3765830,1027643.84,1414.74,,146186.12,855.35
+2020,4001,Urea,Ureia,6900,7128291.97,18680.55,,1851898.99,6322.99
+2021,4007,"Ammonia, anhydrous",Amônia anidra,483373,534234.95,35816.73,,247974.49,26044.31
+2021,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),367289,12779641.73,16558.15,,4634069.21,6334.86
+2021,4027,PK compounds,Compostos PK,0,59527.66,6322.74,,24885.92,3840.79
+2021,4021,NPK fertilizers,Fertilizantes NPK,0,1744002.27,277646.38,,747421.48,103884.27
+2021,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,85627.84,12536.03,,119793.47,22002.82
+2021,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,460005.46,1048.22,,250143.52,682.45
+2021,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),924921,5104712.53,2388.87,,3056957.69,1408.06
+2021,4003,Ammonium nitrate (AN),Nitrato de amônio,448539,1504692.79,1767.56,,441313.15,1145
+2021,4025,Potassium nitrate,Nitrato de potássio,0,2565.38,0,,3070.08,0.06
+2021,4005,Sodium nitrate,Nitrato de sódio,0,10598.98,246.05,,7026.93,1573.86
+2021,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,452061.53,,,140933.33,
+2021,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2021,4024,Other NP compounds,Outros compostos NP,178457,3475530.7,75102.34,,1764411.94,37319.46
+2021,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,73042,171.99,7337.27,,243.03,2821.49
+2021,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,579963.57,32883.24,,173960.29,19405.24
+2021,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,124641,338248.77,2210.13,,86552.93,1624.18
+2021,4011,Phosphate rock,Rocha fosfática,5151449,1821727.49,100.58,,191972.59,19.41
+2021,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,142343.17,351.04,,41273.56,1581.64
+2021,4002,Ammonium sulphate,Sulfato de amônio,155272,3543778.33,4622.34,,747036.03,1611.03
+2021,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,57456.77,378.32,,31808.34,603.78
+2021,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),486700,1400068.44,119.56,,651306.16,252.23
+2021,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4246962,2041033.6,1436.95,,407190.68,1355.98
+2021,4001,Urea,Ureia,431258,7792620.64,28158.61,,3279610.97,15471.41
+2022,4007,"Ammonia, anhydrous",Amônia anidra,737931,444785.3,98546.66,,512838.66,101307.38
+2022,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),290253,11806151.65,7217.68,,9395244.11,6485.47
+2022,4027,PK compounds,Compostos PK,0,46363.1,607.91,,40589.06,2085.57
+2022,4021,NPK fertilizers,Fertilizantes NPK,0,2247779.01,144980.55,,1528280.3,103218.18
+2022,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,204685.44,22239.99,,255669.21,36506.43
+2022,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,215451.36,169.3,,208694.92,188.6
+2022,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),987893,4071051.36,3850.87,,3986539.29,4221.83
+2022,4003,Ammonium nitrate (AN),Nitrato de amônio,386694,708272.97,1466.8,,337222.51,1537.47
+2022,4025,Potassium nitrate,Nitrato de potássio,0,2194.81,,,3595.41,
+2022,4005,Sodium nitrate,Nitrato de sódio,0,7864.46,309.03,,15742.11,1474.81
+2022,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,313821.98,692.1,,165633.74,535.46
+2022,4026,Other NK compounds,Outros compostos NK,0,,,,,
+2022,4024,Other NP compounds,Outros compostos NP,114998,2541519.77,52808.04,,2217514.51,41428.94
+2022,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,68766,53365.58,13217.97,,18623.26,7857.43
+2022,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,475174.21,30243.96,,248438.97,26949.08
+2022,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,229058,315965.02,3574.03,,150158.12,1309.82
+2022,4011,Phosphate rock,Rocha fosfática,5227732,1931240.39,753.49,,340748.61,93.03
+2022,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,109262.5,809.78,,61286.45,2040.96
+2022,4002,Ammonium sulphate,Sulfato de amônio,115153,4996015.59,9958.32,,1690616.06,4139.31
+2022,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,55309.02,423.52,,54751.65,831.03
+2022,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),410794,1009167.74,403.92,,855346.03,333.51
+2022,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4295746,1853113.07,280.41,,694294.53,1329.03
+2022,4001,Urea,Ureia,740327,7175484.41,73069.3,,4826460.85,52906.05
+2023,4007,"Ammonia, anhydrous",Amônia anidra,540465,298059.48,62447.32,375946,169768.41,38693.32
+2023,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),364533,13439275.5,17869.38,364533,5528250.99,9742.52
+2023,4027,PK compounds,Compostos PK,0,74534.67,1208.78,0,40564.02,1939.2
+2023,4021,NPK fertilizers,Fertilizantes NPK,0,1371879.11,215663.24,0,568066.35,110287.02
+2023,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,156526.32,24349.64,0,168664.87,46499.29
+2023,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,246985.59,236,0,142192.81,171.45
+2023,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),896850,5202573.13,8549.53,896850,2946389.84,5130.77
+2023,4003,Ammonium nitrate (AN),Nitrato de amônio,481370,1137052.38,4290.56,156236,296481.14,2580.11
+2023,4025,Potassium nitrate,Nitrato de potássio,0,1880.9,0,0,3533.94,0.02
+2023,4005,Sodium nitrate,Nitrato de sódio,0,9344.56,232.31,0,11506.03,1058.53
+2023,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,195949.97,270,0,55493.26,126.19
+2023,4026,Other NK compounds,Outros compostos NK,0,,,0,,
+2023,4024,Other NP compounds,Outros compostos NP,139359,2024546.44,19726.62,139362,956736.63,18198.16
+2023,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,199881,290172.42,4252.25,199881,59854.65,2352.19
+2023,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,441262.95,22264,0,164108.4,18698.24
+2023,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,44058,216128.16,2794.9,44058,63184.62,1518.58
+2023,4011,Phosphate rock,Rocha fosfática,5434871,1489335.93,48066.49,5052151,259747.33,11028.05
+2023,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,56897.67,466.12,0,16549.12,2512.46
+2023,4002,Ammonium sulphate,Sulfato de amônio,73787,5119599.89,27900.63,73787,1063914.85,9356.13
+2023,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,39205.94,310.12,0,30805.96,684.78
+2023,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),449299,1372977.04,354.4,449299,559493.54,260.36
+2023,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4193734,2203405.86,927.72,4193734,482673.42,1530.5
+2023,4001,Urea,Ureia,437680,7314634.15,20822.76,437680,2839757.12,12516.69
+2024,4007,"Ammonia, anhydrous",Amônia anidra,145708,396765.96,240,32247,205414.47,405.8
+2024,4016,Potassium chloride (muriate of potash) (MOP),Cloreto de potássio (KCl),408906,14058316.05,54278.29,408906,4241505.79,21796.21
+2024,4027,PK compounds,Compostos PK,0,22741.84,2098.16,0,17218.73,1951.99
+2024,4021,NPK fertilizers,Fertilizantes NPK,0,1397230.71,252106.77,,551442.66,112445.4
+2024,4030,Fertilizers n.e.c.,Fertilizantes não especificados,0,150616.63,24475.89,0,145425.71,42289.46
+2024,4022,Diammonium phosphate (DAP),Fosfato diamônico (DAP),0,198247.7,,,115707.18,
+2024,4023,Monoammonium phosphate (MAP),Fosfato monoamônico (MAP),917717,4210602.44,6009.59,917717,2521162.41,4291.23
+2024,4003,Ammonium nitrate (AN),Nitrato de amônio,469458,1162766.94,12085.03,129157,302451.24,5856.19
+2024,4025,Potassium nitrate,Nitrato de potássio,0,2002.13,,0,3700.01,
+2024,4005,Sodium nitrate,Nitrato de sódio,0,9275.93,1019.98,0,10139.76,811.71
+2024,4004,Calcium ammonium nitrate (CAN) and other mixtures with calcium carbonate,Nitrocálcio (CAN) e misturas com carbonato de cálcio,0,226074.98,342,0,58630.05,149.32
+2024,4026,Other NK compounds,Outros compostos NK,0,,,0,,
+2024,4024,Other NP compounds,Outros compostos NP,140364,2748525.67,65985.06,140364,1385925.28,34324.79
+2024,4014,"Other phosphatic fertilizers, n.e.c.",Outros fosfatados,428835,740803.27,13046.81,428835,145284.1,7344.31
+2024,4008,"Other nitrogenous fertilizers, n.e.c.",Outros nitrogenados,0,528909.29,31417.57,0,152180.97,22327.66
+2024,4018,"Other potassic fertilizers, n.e.c.",Outros potássicos,61868,207596.91,1509.98,61868,57328.96,1437.42
+2024,4011,Phosphate rock,Rocha fosfática,5847010,1343434.12,136.51,5288726,182159.89,23.03
+2024,4006,Urea and ammonium nitrate solutions (UAN),Soluções de ureia e nitrato de amônio (UAN),0,45608.59,754.4,0,12138.84,3143
+2024,4002,Ammonium sulphate,Sulfato de amônio,22936,6088920.87,19038.2,22936,1081839.88,5035.25
+2024,4017,Potassium sulphate (sulphate of potash) (SOP),Sulfato de potássio,0,54496.98,611.69,0,35844.67,965.64
+2024,4012,Superphosphates above 35%,Superfosfatos acima de 35% (TSP),449422,1512692.9,4976.17,449422,656572.98,2566.84
+2024,4013,"Superphosphates, other","Superfosfatos, outros (SSP)",4482517,2640118.52,1485.83,4482517,559502.34,1153.04
+2024,4001,Urea,Ureia,0,8326305.74,16884.05,0,2951757.42,10503.13
