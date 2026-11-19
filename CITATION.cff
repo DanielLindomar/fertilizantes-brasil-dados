@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite o repositório e também a fonte original de cada série."
+title: "Fertilizantes no Brasil: repositório de dados"
+type: dataset
+authors:
+  - family-names: "Daniel"
+    given-names: "Lindomar Pegorini"
+    affiliation: "Universidade do Estado de Mato Grosso (UNEMAT), Sinop"
+abstract: "Uso, produção, comércio exterior e preços de fertilizantes no Brasil, de 1961 a 2026. Reúne bases públicas (FAOSTAT, ANDA, IBGE, Comex Stat, Banco Mundial, Banco Central do Brasil e Ipeadata), séries consolidadas prontas para análise, dicionário de colunas e os scripts de download, consolidação e validação."
+keywords:
+  - fertilizantes
+  - Brasil
+  - comércio exterior
+  - dependência de importação
+  - dados abertos
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/DanielLindomar/fertilizantes-brasil-dados"
+url: "https://daniellindomar.github.io/fertilizantes-brasil-dados/"
+version: "2026-11-19"
+date-released: "2026-11-19"

@@ -105,3 +105,15 @@ As fontes disponíveis são `faostat`, `anda`, `ipeadata`, `sidra`, `comex`, `bc
 | Levantamento de safra da Conab (F04), MapBiomas (F05) | Não conferidos nesta etapa; o MapBiomas é muito grande |
 | Relatório de referência do MCTI (E04) | O servidor `repositorio.mctic.gov.br` não respondeu em 19/11/2026 (erro de DNS); o script tenta de novo na próxima execução |
 | PAM por município | Não incluída para não pesar a pasta. Para baixar, acrescente ao script uma entrada com `MUN` para a tabela 5457. |
+
+## Como citar
+
+DANIEL, L. P. **Fertilizantes no Brasil: repositório de dados**. Versão 2026-11-19. [S. l.]: GitHub, 2026. Disponível em: https://github.com/DanielLindomar/fertilizantes-brasil-dados. Acesso em: dia mês ano.
+
+Cite também a fonte original de cada série, indicada na coluna `fonte` de `consolidados/DICIONARIO.csv`. O arquivo `CITATION.cff` traz a mesma referência em formato legível por máquina (botão "Cite this repository" no GitHub).
+
+## Licença
+
+- Scripts e código do site: [MIT](LICENSE).
+- Séries consolidadas (`consolidados/` e `docs/dados/`) e documentação: [CC BY 4.0](LICENSE-DADOS.md).
+- Bases originais (`brutos/` e `tratados/`): termos de uso de cada fonte. As duas licenças acima não se aplicam a elas.

@@ -640,6 +640,8 @@
     }));
     const versao = Object.values(meta.versoes_das_fontes).sort().pop();
     $("#versao").textContent = "Versão atual: download das fontes em " + dataBR(versao) + "; consolidação em " + dataBR(meta.gerado_em) + ".";
+    $("#cit-versao").textContent = versao;
+    $("#cit-ano").textContent = versao.slice(0, 4);
   }
 
   // ------------------------------------------------------------ arquivos originais
